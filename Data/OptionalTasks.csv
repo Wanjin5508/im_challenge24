@@ -1,0 +1,1002 @@
+,ID,Street,Number,Address,Latitude,Longitude,LocationID,Description,Category,ServiceTime,Profit
+0,PE-FWI-5-5985,Fabrikstraße,3,"Fabrikstraße 3, Dresden",51.0442492,13.7104997,0,Depot,5,0,0
+1,PE-FWI-3-5292,Bulgakowstraße,20,"Bulgakowstraße, 20, Dresden",51.0209137,13.7366383,1,Entlüftung,3,780,1
+2,PE-FWI-3-4048,Fritz-Busch-Straße,8,"Fritz-Busch-Straße, 8, Dresden",51.0133993,13.773792,2,Entlüftung,3,840,1
+3,PE-FWI-2-7618,Julie-Salinger-Weg,5,"Julie-Salinger-Weg, 5, Dresden",51.0638678,13.7539745073,3,Zuluftschacht,2,1020,2
+4,PE-FWI-3-2483,Löscherstraße,26,"Löscherstraße, 26, Dresden",51.0480874,13.7798141,4,Abzweigung,3,840,1
+5,PE-FWI-2-7312,Pöppelmannstraße,7,"Pöppelmannstraße, 7, Dresden",51.0499222,13.7637909,5,Kontrollschacht,2,840,2
+6,PE-FWI-2-5570,Laubestraße,11,"Laubestraße, 11, Dresden",51.0430533,13.7774901,6,Zuluftschacht,2,960,2
+7,PE-FWI-2-2814,Bönischplatz,5,"Bönischplatz, 5, Dresden",51.0555879,13.7621105,7,Zuluftschacht,2,1020,2
+8,PE-FWI-2-4346,Polierstraße,8,"Polierstraße, 8, Dresden",51.0449306,13.7250115,8,KontrollBauwerk,2,720,2
+9,PE-FWI-4-7458,An der Herzogin Garten,3,"An der Herzogin Garten, 3, Dresden",51.0547126,13.7293395,9,Erdarmatur,4,720,3
+10,PE-FWI-2-6809,Sophienstraße,5,"Sophienstraße, 5, Dresden",51.053859,13.7382891,10,Zuluftschacht,2,1140,2
+11,PE-FWI-2-1593,Gewandhausstraße,8,"Gewandhausstraße, 8, Dresden",51.0486806,13.7415908,11,KontrollBauwerk,2,780,2
+12,PE-FWI-2-758,Pulsnitzer Straße,6,"Pulsnitzer Straße, 6, Dresden",51.0639922,13.7579463,12,KontrollBauwerk,2,720,2
+13,PE-FWI-3-3852,Manitiusstraße,5,"Manitiusstraße, 5, Dresden",51.0570243,13.7153393602,13,Entlüftung,3,900,1
+14,PE-FWI-3-4778,Sternplatz,6,"Sternplatz, 6, Dresden",51.04666965,13.7262092654,14,Entlüftung,3,840,1
+15,PE-FWI-2-4101,Mügelner Straße / Niedersedlitzer Straße,-,"Mügelner Straße & Niedersedlitzer Straße, Dresden",51.0124099958,13.7991100148,15,Zuluftschacht,2,960,2
+16,PE-FWI-2-8505,Schilfweg,49,"Schilfweg, 49, Dresden",51.0233118,13.8014423,16,KontrollBauwerk,2,780,2
+17,PE-FWI-4-7571,Winckelmannstraße,11,"Winckelmannstraße, 11, Dresden",51.0390627,13.7309337,17,Erdarmatur,4,900,3
+18,PE-FWI-2-5950,Jessener Straße,28,"Jessener Straße, 28, Dresden",51.0118861,13.8156321,18,Kontrollschacht,2,900,2
+19,PE-FWI-2-5625,Hohnsteiner Straße,3,"Hohnsteiner Straße, 3, Dresden",51.0673899,13.7606155,19,Zuluftschacht,2,960,2
+20,PE-FWI-4-3577,Forsthausstraße,7,"Forsthausstraße, 7, Dresden",51.0526993,13.7877707,20,Erdarmatur,4,780,3
+21,PE-FWI-2-6950,Amalie-Dietrich-Platz,9,"Amalie-Dietrich-Platz, 9, Dresden",51.0440564,13.6777804,21,Zuluftschacht,2,1140,2
+22,PE-FWI-4-7953,Lingnerallee,5,"Lingnerallee, 5, Dresden",51.0472439,13.7442002,22,Erdarmatur,4,600,3
+23,PE-FWI-4-4523,Georg-Marwitz-Straße,7,"Georg-Marwitz-Straße, 7, Dresden",51.0188586,13.8078639,23,Erdarmatur,4,780,3
+24,PE-FWI-3-3868,Stübelallee,73,"Stübelallee, 73, Dresden",51.0441133,13.7598618,24,Abzweigung,3,660,1
+25,PE-FWI-4-9608,Pestitzer Weg,2,"Pestitzer Weg, 2, Dresden",51.0273307,13.7489618,25,Erdarmatur,4,900,3
+26,PE-FWI-2-6919,Georg-Nerlich-Straße,9,"Georg-Nerlich-Straße, 9, Dresden",51.0473579,13.7601092,26,Zuluftschacht,2,1140,2
+27,PE-FWI-1-6181,Lise-Meitner-Straße,14,"Lise-Meitner-Straße, 14, Dresden",51.0531943,13.6662148,27,Brücke,1,1680,3
+28,PE-FWI-1-3289,Cämmerswalder Straße,9,"Cämmerswalder Straße, 9, Dresden",51.0202727,13.7182484,28,Bauwerk,1,900,3
+29,PE-FWI-4-147,Altenberger Straße,53,"Altenberger Straße, 53, Dresden",51.03596325,13.8075202315,29,Erdarmatur,4,720,3
+30,PE-FWI-1-1655,Erlenstraße,20,"Erlenstraße, 20, Dresden",51.0737908,13.7458474,30,Stütze,1,720,3
+31,PE-FWI-3-6208,Wiener Platz,7,"Wiener Platz, 7, Dresden",51.0414161,13.7324191,31,Belüftung,3,660,1
+32,PE-FWI-1-5786,Altstrehlen,8,"Altstrehlen, 8, Dresden",51.0268762,13.7619986,32,Brunnen,1,1020,3
+33,PE-FWI-3-4789,Saxoniastraße,14,"Saxoniastraße, 14, Dresden",51.0429352,13.7070597,33,Entlüftung,3,780,1
+34,PE-FWI-4-5369,Grenzstraße,4,"Grenzstraße, 4, Dresden",51.0888251,13.6312245579,34,Erdarmatur,4,780,3
+35,PE-FWI-2-4202,Hermann-Reichelt-Straße,8,"Hermann-Reichelt-Straße, 8, Dresden",51.1210876,13.7514524,35,Kontrollschacht,2,600,2
+36,PE-FWI-4-8811,Georg-Nerlich-Straße,2,"Georg-Nerlich-Straße, 2, Dresden",51.0466937,13.7602635,36,Erdarmatur,4,720,3
+37,PE-FWI-1-3889,Nicolaistraße,22,"Nicolaistraße, 22, Dresden",51.046406,13.7699161,37,Armatur,1,840,3
+38,PE-FWI-2-4073,Dörnichtweg,4,"Dörnichtweg, 4, Dresden",51.11409005,13.7660808378,38,Zuluftschacht,2,1020,2
+39,PE-FWI-4-2610,Kleinzschachwitzer Straße,18,"Kleinzschachwitzer Straße, 18, Dresden",51.0074165,13.8414156,39,Erdarmatur,4,840,3
+40,PE-FWI-3-3204,Brockhausstraße,2,"Brockhausstraße, 2, Dresden",51.0659399,13.7893745,40,Abzweigung,3,600,1
+41,PE-FWI-3-3591,Micktner Straße,14,"Micktner Straße, 14, Dresden",51.081611,13.709316,41,Abzweigung,3,660,1
+42,PE-FWI-4-850,Marschnerstraße,31,"Marschnerstraße, 31, Dresden",51.04857525,13.7578596019,42,Erdarmatur,4,780,3
+43,PE-FWI-2-5144,Weißeritzstraße,15,"Weißeritzstraße, 15, Dresden",51.0595984,13.7269962,43,Kontrollschacht,2,600,2
+44,PE-FWI-2-9813,Palmstraße,7,"Palmstraße, 7, Dresden",51.0507815,13.724789,44,Kontrollschacht,2,780,2
+45,PE-FWI-2-4329,Oskar-Röder-Straße,9,"Oskar-Röder-Straße, 9, Dresden",51.0213813,13.7910796,45,KontrollBauwerk,2,900,2
+46,PE-FWI-2-2359,Robert-Blum-Straße,8,"Robert-Blum-Straße, 8, Dresden",51.0628035,13.7377477,46,Zuluftschacht,2,960,2
+47,PE-FWI-2-6066,Südhöhe,16,"Südhöhe, 16, Dresden",51.0202674,13.7450424787,47,Zuluftschacht,2,960,2
+48,PE-FWI-3-2270,Keglerstraße,2,"Keglerstraße, 2, Dresden",51.0401341,13.7877578,48,Belüftung,3,600,1
+49,PE-FWI-4-1988,Geinitzstraße,5,"Geinitzstraße, 5, Dresden",51.03173695,13.74662705,49,Erdarmatur,4,660,3
+50,PE-FWI-2-5862,Calvinstraße,13,"Calvinstraße, 13, Dresden",51.0343382,13.7875939,50,Zuluftschacht,2,1140,2
+51,PE-FWI-4-304,Wiener Straße,29,"Wiener Straße, 29, Dresden",51.0394062,13.738656,51,Erdarmatur,4,660,3
+52,PE-FWI-4-9470,Leipziger Straße,45,"Leipziger Straße, 45, Dresden",51.07144475,13.7271047721,52,Erdarmatur,4,780,3
+53,PE-FWI-4-2069,Grunaer Straße,25,"Grunaer Straße, 25, Dresden",51.0480735,13.7501448,53,Erdarmatur,4,780,3
+54,PE-FWI-3-8800,Käthe-Kollwitz-Ufer,9,"Käthe-Kollwitz-Ufer, 9, Dresden",51.0569854,13.759522,54,Belüftung,3,780,1
+55,PE-FWI-4-5395,Gottleubaer Straße,1,"Gottleubaer Straße, 1, Dresden",51.0396725,13.7986569,55,Erdarmatur,4,780,3
+56,PE-FWI-4-6994,Alexander-Puschkin-Platz,8,"Alexander-Puschkin-Platz, 8, Dresden",51.0702407,13.7290756,56,Erdarmatur,4,840,3
+57,PE-FWI-4-1358,Marienstraße,3,"Marienstraße, 3, Dresden",51.0501662,13.7327067,57,Erdarmatur,4,720,3
+58,PE-FWI-2-9182,Gröbelstraße,8,"Gröbelstraße, 8, Dresden",51.0437557,13.7023255,58,Zuluftschacht,2,1200,2
+59,PE-FWI-4-7372,St. Petersburger Straße,3,"St. Petersburger Straße, 3, Dresden",51.0503653,13.747391,59,Erdarmatur,4,600,3
+60,PE-FWI-4-5040,Otto-Dix-Ring,5,"Otto-Dix-Ring, 5, Dresden",51.02092095,13.77459195,60,Erdarmatur,4,780,3
+61,PE-FWI-2-5279,Löwenstraße,7,"Löwenstraße, 7, Dresden",51.0622968,13.7572075639,61,Kontrollschacht,2,660,2
+62,PE-FWI-2-8398,Wiener Straße,28,"Wiener Straße, 28, Dresden",51.0394062,13.738656,51,Zuluftschacht,2,1080,2
+63,PE-FWI-3-9340,Bayrische Straße,9,"Bayrische Straße, 9, Dresden",51.0389655,13.733415,62,Entlüftung,3,660,1
+64,PE-FWI-4-5692,Weißbachstraße,2,"Weißbachstraße, 2, Dresden",51.0270394,13.7290495,63,Erdarmatur,4,900,3
+65,PE-FWI-4-7033,Gamigstraße,23,"Gamigstraße, 23, Dresden",51.0090044,13.7992918,64,Erdarmatur,4,900,3
+66,PE-FWI-1-7639,Bauhofstraße,8,"Bauhofstraße, 8, Dresden",51.0501563,13.7191792,65,Brunnen,1,1200,3
+67,PE-FWI-4-4328,Gabelsbergerstraße,3,"Gabelsbergerstraße, 3, Dresden",51.0498352,13.7740102,66,Erdarmatur,4,660,3
+68,PE-FWI-4-836,Heinrich-Beck-Straße,8,"Heinrich-Beck-Straße, 8, Dresden",51.0592388,13.768214,67,Erdarmatur,4,780,3
+69,PE-FWI-4-1470,Kohlenstraße,3,"Kohlenstraße, 3, Dresden",51.002749,13.6859527,68,Erdarmatur,4,900,3
+70,PE-FWI-2-5391,Rostocker Straße,5,"Rostocker Straße, 5, Dresden",51.1167996,13.7828051179,69,KontrollBauwerk,2,840,2
+71,PE-FWI-4-1056,Georg-Treu-Platz,3,"Georg-Treu-Platz, 3, Dresden",51.0522024,13.7429693,70,Erdarmatur,4,660,3
+72,PE-FWI-4-2864,Merseburger Straße,5,"Merseburger Straße, 5, Dresden",51.0466719,13.7827115,71,Erdarmatur,4,660,3
+73,PE-FWI-3-5668,Wigardstraße,14,"Wigardstraße, 14, Dresden",51.0575392,13.7485477,72,Entlüftung,3,780,1
+74,PE-FWI-4-1199,Gartenheimsteg,9,"Gartenheimsteg, 9, Dresden",51.0346342,13.7912741,73,Erdarmatur,4,660,3
+75,PE-FWI-3-3016,Schießgasse,3,"Schießgasse, 3, Dresden",51.0513401,13.7446979,74,Entlüftung,3,660,1
+76,PE-FWI-4-6133,Hohenthalplatz,7,"Hohenthalplatz, 7, Dresden",51.05901055,13.7138752149,75,Erdarmatur,4,900,3
+77,PE-FWI-4-7839,Tizianstraße,4,"Tizianstraße, 4, Dresden",51.0277934,13.748841,76,Erdarmatur,4,780,3
+78,PE-FWI-3-9195,Seidnitzer Straße,4,"Seidnitzer Straße, 4, Dresden",51.0485916,13.7504274,77,Abzweigung,3,900,1
+79,PE-FWI-2-6777,Cottbuser Straße,23,"Cottbuser Straße, 23, Dresden",51.0893247,13.7147993,78,Kontrollschacht,2,900,2
+80,PE-FWI-3-7258,Niederseidewitzer Weg,15,"Niederseidewitzer Weg, 15, Dresden",51.0108966,13.8139976,79,Belüftung,3,780,1
+81,PE-FWI-2-6340,Wilsdruffer Ring,29,"Wilsdruffer Ring, 29, Dresden",51.0408809,13.6654249,80,Zuluftschacht,2,900,2
+82,PE-FWI-2-2704,Baluschekstraße,7,"Baluschekstraße, 7, Dresden",51.04566955,13.7035017514,81,KontrollBauwerk,2,900,2
+83,PE-FWI-3-8660,Archivstraße,19,"Archivstraße, 19, Dresden",51.0572237,13.749541,82,Abzweigung,3,840,1
+84,PE-FWI-2-6926,Provianthofstraße,2,"Provianthofstraße, 2, Dresden",51.0822891,13.7599856,83,Zuluftschacht,2,1140,2
+85,PE-FWI-4-5115,Neubertstraße,13,"Neubertstraße, 13, Dresden",51.0573777,13.7739562141,84,Erdarmatur,4,660,3
+86,PE-FWI-3-1071,Bauhofstraße,9,"Bauhofstraße, 9, Dresden",51.0501563,13.7191792,65,Abzweigung,3,840,1
+87,PE-FWI-2-9728,Großenhainer Straße,28,"Großenhainer Straße, 28, Dresden",51.0724141,13.7364776,85,Kontrollschacht,2,660,2
+88,PE-FWI-4-7153,Obergraben,12,"Obergraben, 12, Dresden",51.0598573,13.7420444,86,Erdarmatur,4,600,3
+89,PE-FWI-2-2201,Abbestraße,4,"Abbestraße, 4, Dresden",51.0927339,13.70719,87,Kontrollschacht,2,780,2
+90,PE-FWI-4-1246,Sonnenblumenweg,11,"Sonnenblumenweg, 11, Dresden",51.077746,13.7387676,88,Erdarmatur,4,780,3
+91,PE-FWI-3-6268,Oschatzer Straße,26,"Oschatzer Straße, 26, Dresden",51.07651545,13.7249125082,89,Abzweigung,3,780,1
+92,PE-FWI-3-7948,Bremer Straße,25,"Bremer Straße, 25, Dresden",51.0613335,13.7062130725,90,Entlüftung,3,840,1
+93,PE-FWI-3-1370,Niederseidewitzer Weg,33,"Niederseidewitzer Weg, 33, Dresden",51.0108966,13.8139976,79,Belüftung,3,600,1
+94,PE-FWI-4-735,Institutsgasse,9,"Institutsgasse, 9, Dresden",51.0563193,13.7155948,91,Erdarmatur,4,840,3
+95,PE-FWI-2-6871,Birkwitzer Weg,13,"Birkwitzer Weg, 13, Dresden",51.0120415,13.8188896,92,Zuluftschacht,2,1140,2
+96,PE-FWI-2-2927,An der Schleife,3,"An der Schleife, 3, Dresden",51.0902244,13.7698321,93,Zuluftschacht,2,900,2
+97,PE-FWI-2-7666,Julius-Otto-Straße,6,"Julius-Otto-Straße, 6, Dresden",51.0306166,13.7588635026,94,KontrollBauwerk,2,600,2
+98,PE-FWI-2-285,Palmstraße,9,"Palmstraße, 9, Dresden",51.0507815,13.724789,44,KontrollBauwerk,2,600,2
+99,PE-FWI-4-8630,Kamillenweg,5,"Kamillenweg, 5, Dresden",51.04724655,13.6570930241,95,Erdarmatur,4,600,3
+100,PE-FWI-4-6419,Lommatzscher Straße,51,"Lommatzscher Straße, 51, Dresden",51.0813945,13.7102063,96,Erdarmatur,4,780,3
+101,PE-FWI-4-4188,Hülßestraße,12,"Hülßestraße, 12, Dresden",51.0130881,13.7902261,97,Erdarmatur,4,720,3
+102,PE-FWI-1-7228,An der Herzogin Garten,15,"An der Herzogin Garten, 15, Dresden",51.0549608,13.7299017,98,Stütze,1,720,3
+103,PE-FWI-1-1776,Hebbelstraße,6,"Hebbelstraße, 6, Dresden",51.0563743,13.6864351,99,Bauwerk,1,900,3
+104,PE-FWI-4-4708,Hassestraße,8,"Hassestraße, 8, Dresden",51.05158255,13.7800332437,100,Erdarmatur,4,720,3
+105,PE-FWI-2-8065,Bahnhofstraße,52,"Bahnhofstraße, 52, Dresden",51.0014195,13.8398951,101,KontrollBauwerk,2,720,2
+106,PE-FWI-2-4488,Reißigerstraße,17,"Reißigerstraße, 17, Dresden",51.0448194,13.7672239,102,Zuluftschacht,2,900,2
+107,PE-FWI-3-3214,Hartmut-Dost-Straße,4,"Hartmut-Dost-Straße, 4, Dresden",51.0797566,13.75234435,103,Abzweigung,3,720,1
+108,PE-FWI-2-7687,Wilsdruffer Straße,7,"Wilsdruffer Straße, 7, Dresden",51.0494309,13.7427525,104,Zuluftschacht,2,1140,2
+109,PE-FWI-4-903,Manitiusstraße,3,"Manitiusstraße, 3, Dresden",51.05713685,13.71542435,105,Erdarmatur,4,660,3
+110,PE-FWI-3-7227,Reißigerstraße,5,"Reißigerstraße, 5, Dresden",51.0438601,13.7662397,106,Entlüftung,3,660,1
+111,PE-FWI-2-9618,Melitta-Bentz-Str.,8,"Melitta-Bentz-Str., 8, Dresden",51.0858427,13.7657646,107,KontrollBauwerk,2,600,2
+112,PE-FWI-3-491,Grenzstraße,27,"Grenzstraße, 27, Dresden",51.1259943,13.7891152,108,Entlüftung,3,780,1
+113,PE-FWI-4-9702,Reißigerstraße,2,"Reißigerstraße, 2, Dresden",51.043304,13.7666345,109,Erdarmatur,4,600,3
+114,PE-FWI-4-1624,Leisniger Straße,54,"Leisniger Straße, 54, Dresden",51.08101925,13.7239466824,110,Erdarmatur,4,780,3
+115,PE-FWI-2-9591,Finsterwalde Straße,37,"Finsterwalde Straße, 37, Dresden",51.0040753246,13.8029294805,111,Kontrollschacht,2,660,2
+116,PE-FWI-2-4580,Geblerstraße,1,"Geblerstraße, 1, Dresden",51.0907613,13.7023218,112,KontrollBauwerk,2,600,2
+117,PE-FWI-2-9428,Institutsgasse,3,"Institutsgasse, 3, Dresden",51.0567646,13.7161908935,113,Kontrollschacht,2,900,2
+118,PE-FWI-4-8978,Boxdorfer Straße,2,"Boxdorfer Straße, 2, Dresden",51.0870623,13.7157938,114,Erdarmatur,4,840,3
+119,PE-FWI-2-8798,Güterbahnhofstraße,6,"Güterbahnhofstraße, 6, Dresden",51.0471646,13.7233984,115,KontrollBauwerk,2,720,2
+120,PE-FWI-2-9933,Biedermannstraße,7,"Biedermannstraße, 7, Dresden",51.0351939,13.7075886,116,Kontrollschacht,2,780,2
+121,PE-FWI-2-8126,Salzgasse,7,"Salzgasse, 7, Dresden",51.0520665,13.7434494,117,Kontrollschacht,2,900,2
+122,PE-FWI-4-2749,Uferstraße,8,"Uferstraße, 8, Dresden",51.0632522,13.7347782159,118,Erdarmatur,4,720,3
+123,PE-FWI-3-6484,Hermsdorfer Straße,1,"Hermsdorfer Straße, 1, Dresden",51.0459128,13.697089342,119,Belüftung,3,720,1
+124,PE-FWI-4-8256,Conrad-Felixmüller-Straße,6,"Conrad-Felixmüller-Straße, 6, Dresden",51.0173165,13.776845999999999,120,Erdarmatur,4,600,3
+125,PE-FWI-4-3953,Dammweg,5,"Dammweg, 5, Dresden",51.06916855,13.746557450000001,121,Erdarmatur,4,720,3
+126,PE-FWI-4-5183,Friedebacher Straße,2,"Friedebacher Straße, 2, Dresden",51.0178481,13.7216818,122,Erdarmatur,4,840,3
+127,PE-FWI-4-1659,Haydnstraße,22,"Haydnstraße, 22, Dresden",51.0471945,13.7745776,123,Erdarmatur,4,900,3
+128,PE-FWI-4-8715,Hochschulstr.,1,"Hochschulstr., 1, Dresden",51.0358085,13.733339,124,Erdarmatur,4,720,3
+129,PE-FWI-2-930,Sternstraße,6,"Sternstraße, 6, Dresden",51.07935535,13.7113171709,125,Zuluftschacht,2,900,2
+130,PE-FWI-4-844,Gluckstraße,3,"Gluckstraße, 3, Dresden",51.0510391,13.7774763,126,Erdarmatur,4,840,3
+131,PE-FWI-2-4972,Freiberger Platz,4,"Freiberger Platz, 4, Dresden",51.0500434,13.7253758,127,Zuluftschacht,2,960,2
+132,PE-FWI-4-2943,Besselplatz,3,"Besselplatz, 3, Dresden",51.0134442,13.7873911,128,Erdarmatur,4,900,3
+133,PE-FWI-4-8393,Jessener Straße,19,"Jessener Straße, 19, Dresden",51.0120077,13.8145298,129,Erdarmatur,4,720,3
+134,PE-FWI-2-1720,Försterlingstraße,7,"Försterlingstraße, 7, Dresden",51.0048828,13.836837,130,Kontrollschacht,2,600,2
+135,PE-FWI-2-6205,Suttnerstraße,9,"Suttnerstraße, 9, Dresden",51.021707,13.8128022,131,Kontrollschacht,2,660,2
+136,PE-FWI-4-5348,Oschatzer Straße,7,"Oschatzer Straße, 7, Dresden",51.075329,13.7233256,132,Erdarmatur,4,660,3
+137,PE-FWI-4-357,Tatzberg,40,"Tatzberg, 40, Dresden",51.0558768,13.7733025,133,Erdarmatur,4,780,3
+138,PE-FWI-4-1411,Markusstraße,9,"Markusstraße, 9, Dresden",51.0795878,13.7218844976,134,Erdarmatur,4,840,3
+139,PE-FWI-4-2791,George-Bähr-Straße,10,"George-Bähr-Straße, 10, Dresden",51.0300403,13.7260868,135,Erdarmatur,4,720,3
+140,PE-FWI-4-5934,Anton-Graff-Straße,7,"Anton-Graff-Straße, 7, Dresden",51.0440715,13.7715169,136,Erdarmatur,4,600,3
+141,PE-FWI-2-9294,Gohliser Straße,16,"Gohliser Straße, 16, Dresden",51.04582065,13.6963752434,137,KontrollBauwerk,2,780,2
+142,PE-FWI-4-9900,Altenberger Straße,60,"Altenberger Straße, 60, Dresden",51.0336308,13.8078786,138,Erdarmatur,4,840,3
+143,PE-FWI-2-6013,Auguste-Lazar-Straße,2,"Auguste-Lazar-Straße, 2, Dresden",51.0200704,13.733846400000001,139,KontrollBauwerk,2,780,2
+144,PE-FWI-4-7569,Lassallestraße,5,"Lassallestraße, 5, Dresden",51.0192768,13.8110434489,140,Erdarmatur,4,900,3
+145,PE-FWI-3-3208,Spitzwegstraße,32,"Spitzwegstraße, 32, Dresden",51.0149514,13.7567695,141,Belüftung,3,840,1
+146,PE-FWI-2-2141,Fischhausstraße,9,"Fischhausstraße, 9, Dresden",51.0686787,13.7863437,142,Zuluftschacht,2,1140,2
+147,PE-FWI-4-1213,Terrassenufer,19,"Terrassenufer, 19, Dresden",51.0541338,13.7521465,143,Erdarmatur,4,720,3
+148,PE-FWI-4-6585,Weißeritzstraße,16,"Weißeritzstraße, 16, Dresden",51.0595984,13.7269962,43,Erdarmatur,4,840,3
+149,PE-FWI-3-4121,Lingnerallee,4,"Lingnerallee, 4, Dresden",51.0472439,13.7442002,22,Entlüftung,3,780,1
+150,PE-FWI-2-4250,Am Anger,22,"Am Anger, 22, Dresden",51.0075256,13.792643398100001,144,Zuluftschacht,2,1140,2
+151,PE-FWI-4-1402,Altdobritz,1,"Altdobritz, 1, Dresden",51.0189765,13.8113032,145,Erdarmatur,4,720,3
+152,PE-FWI-3-4956,Toni-Sender-Straße,11,"Toni-Sender-Straße, 11, Dresden",51.0828275,13.7524068,146,Entlüftung,3,720,1
+153,PE-FWI-2-8668,Grumbacher Straße,6,"Grumbacher Straße, 6, Dresden",51.0466311,13.6944303,147,KontrollBauwerk,2,900,2
+154,PE-FWI-4-902,Espenstraße,4,"Espenstraße, 4, Dresden",51.044503,13.6645494,148,Erdarmatur,4,780,3
+155,PE-FWI-3-2348,Gubener Straße,35,"Gubener Straße, 35, Dresden",51.0082293,13.795448,149,Entlüftung,3,660,1
+156,PE-FWI-3-1761,Hamburger Straße,25,"Hamburger Straße, 25, Dresden",51.058994,13.7010184026,150,Belüftung,3,660,1
+157,PE-FWI-4-6373,Terrassenufer,18,"Terrassenufer, 18, Dresden",51.0540657,13.7519072,151,Erdarmatur,4,840,3
+158,PE-FWI-4-2369,Zur Steinhöhe,2,"Zur Steinhöhe, 2, Dresden",51.1337939,13.7788677,152,Erdarmatur,4,900,3
+159,PE-FWI-2-2310,Conradstraße,3,"Conradstraße, 3, Dresden",51.0716532,13.740857,153,KontrollBauwerk,2,600,2
+160,PE-FWI-4-5412,Wilhelm-Busch-Straße,29,"Wilhelm-Busch-Straße, 29, Dresden",51.0157887,13.7555609,154,Erdarmatur,4,840,3
+161,PE-FWI-2-587,Burckhardtstraße,4,"Burckhardtstraße, 4, Dresden",51.0588202,13.7728586,155,KontrollBauwerk,2,900,2
+162,PE-FWI-4-3584,Sternplatz,4,"Sternplatz, 4, Dresden",51.04666965,13.7262092654,14,Erdarmatur,4,780,3
+163,PE-FWI-2-7089,Ischler Straße,14,"Ischler Straße, 14, Dresden",51.0183512,13.8388825,156,Zuluftschacht,2,1080,2
+164,PE-FWI-4-9438,Walpurgisstraße,16,"Walpurgisstraße, 16, Dresden",51.0428052,13.7405154,157,Erdarmatur,4,780,3
+165,PE-FWI-2-4130,Oberer Kreuzweg,8,"Oberer Kreuzweg, 8, Dresden",51.0612142,13.7496242,158,Zuluftschacht,2,1080,2
+166,PE-FWI-2-8157,Bayrische Straße,3,"Bayrische Straße, 3, Dresden",51.0389655,13.733415,62,Zuluftschacht,2,1080,2
+167,PE-FWI-4-1326,Goldammerweg,1,"Goldammerweg, 1, Dresden",51.0118318,13.7918814,159,Erdarmatur,4,900,3
+168,PE-FWI-3-4010,Würzburger Straße,76,"Würzburger Straße, 76, Dresden",51.0275507,13.718869,160,Entlüftung,3,900,1
+169,PE-FWI-4-7567,Röthenbacher Straße,22,"Röthenbacher Straße, 22, Dresden",51.0183629,13.7183284,161,Erdarmatur,4,720,3
+170,PE-FWI-1-3842,Wilischstraße,22,"Wilischstraße, 22, Dresden",51.0289428,13.8155759,162,Bauwerk,1,1440,3
+171,PE-FWI-2-163,Thomaestraße / Gerokstraße,-,"Thomaestraße & Gerokstraße, Dresden",51.0523500159,13.7701799598,163,Kontrollschacht,2,780,2
+172,PE-FWI-4-1976,Theaterstraße,6,"Theaterstraße, 6, Dresden",51.0528916,13.7304158,164,Erdarmatur,4,600,3
+173,PE-FWI-2-9456,Förstereistraße,45,"Förstereistraße, 45, Dresden",51.0712337,13.7525106,165,Kontrollschacht,2,900,2
+174,PE-FWI-2-4514,Wilhelmine-Reichard-Ring,6,"Wilhelmine-Reichard-Ring, 6, Dresden",51.121646,13.7649254,166,Kontrollschacht,2,600,2
+175,PE-FWI-1-4892,Elisenstraße,27,"Elisenstraße, 27, Dresden",51.0540667,13.7611883,167,Rohrbrücke,1,900,3
+176,PE-FWI-4-5377,Rietschelstraße,2,"Rietschelstraße, 2, Dresden",51.0510524,13.7538171,168,Erdarmatur,4,600,3
+177,PE-FWI-3-4079,Walpurgisstraße,14,"Walpurgisstraße, 14, Dresden",51.0428052,13.7405154,157,Entlüftung,3,720,1
+178,PE-FWI-3-3366,Henzestraße,1,"Henzestraße, 1, Dresden",51.0417958,13.7702636,169,Entlüftung,3,900,1
+179,PE-FWI-3-8324,Landhausstraße,3,"Landhausstraße, 3, Dresden",51.0510173,13.7415291,170,Belüftung,3,600,1
+180,PE-FWI-2-286,Brünner Straße,3,"Brünner Straße, 3, Dresden",51.0281531,13.8281495,171,KontrollBauwerk,2,780,2
+181,PE-FWI-4-4667,Glasewaldtstraße,17,"Glasewaldtstraße, 17, Dresden",51.04551805,13.80373115,172,Erdarmatur,4,840,3
+182,PE-FWI-2-8533,Ebereschenstraße,28,"Ebereschenstraße, 28, Dresden",51.0427998,13.6622705,173,Kontrollschacht,2,600,2
+183,PE-FWI-2-1200,Mathildenstraße,14,"Mathildenstraße, 14, Dresden",51.0486149,13.7527764,174,Zuluftschacht,2,1020,2
+184,PE-FWI-4-7662,Wurzener Straße,6,"Wurzener Straße, 6, Dresden",51.0815461,13.721726715500001,175,Erdarmatur,4,900,3
+185,PE-FWI-1-1484,Terrassenufer,9,"Terrassenufer, 9, Dresden",51.0537884,13.7391814,176,Rohrbrücke,1,1320,3
+186,PE-FWI-4-9860,Spitzwegstraße,24,"Spitzwegstraße, 24, Dresden",51.0149514,13.7567695,141,Erdarmatur,4,720,3
+187,PE-FWI-3-937,Hähnelstraße,1,"Hähnelstraße, 1, Dresden",51.0453805,13.7642499,177,Entlüftung,3,600,1
+188,PE-FWI-2-6857,Rungestraße,31,"Rungestraße, 31, Dresden",51.0256723,13.7470929,178,KontrollBauwerk,2,900,2
+189,PE-FWI-2-2871,Terrassenufer,1,"Terrassenufer, 1, Dresden",51.053661,13.7397979,179,Zuluftschacht,2,1140,2
+190,PE-FWI-4-7650,Lohrmannstraße,21,"Lohrmannstraße, 21, Dresden",51.01727065,13.7890790952,180,Erdarmatur,4,600,3
+191,PE-FWI-4-101,Sternplatz,3,"Sternplatz, 3, Dresden",51.04666965,13.7262092654,14,Erdarmatur,4,720,3
+192,PE-FWI-2-3074,Charlottenstraße,2,"Charlottenstraße, 2, Dresden",51.0698844,13.77935875,181,Kontrollschacht,2,660,2
+193,PE-FWI-3-9783,Mühlbacher Straße,6,"Mühlbacher Straße, 6, Dresden",51.0358372,13.8094516,182,Entlüftung,3,780,1
+194,PE-FWI-2-6463,Berchtesgadener Straße,3,"Berchtesgadener Straße, 3, Dresden",51.026687,13.8248233,183,KontrollBauwerk,2,720,2
+195,PE-FWI-4-7176,Reichenauer Weg,14,"Reichenauer Weg, 14, Dresden",51.0299848,13.8135501,184,Erdarmatur,4,900,3
+196,PE-FWI-4-1343,Calvinstraße,18,"Calvinstraße, 18, Dresden",51.0339213,13.7881378,185,Erdarmatur,4,600,3
+197,PE-FWI-3-6674,Elsterwerdaer Straße,22,"Elsterwerdaer Straße, 22, Dresden",51.0039443,13.8004585,186,Entlüftung,3,780,1
+198,PE-FWI-1-5498,Schützengasse,2,"Schützengasse, 2, Dresden",51.0543974,13.7274718,187,Rohrbrücke,1,900,3
+199,PE-FWI-2-3113,Osterbergstraße,10,"Osterbergstraße, 10, Dresden",51.0788178,13.7249283,188,Kontrollschacht,2,900,2
+200,PE-FWI-2-290,Manitiusstraße,1,"Manitiusstraße, 1, Dresden",51.05726,13.7155234408,189,Zuluftschacht,2,900,2
+201,PE-FWI-1-487,Espenstraße,1,"Espenstraße, 1, Dresden",51.0438734,13.6645657433,190,Stütze,1,660,3
+202,PE-FWI-2-9707,Heynahtsstraße,6,"Heynahtsstraße, 6, Dresden",51.0364624,13.7887106,191,Zuluftschacht,2,1080,2
+203,PE-FWI-2-4209,Göhrener Weg,29,"Göhrener Weg, 29, Dresden",51.1223355,13.7807587,192,Kontrollschacht,2,780,2
+204,PE-FWI-3-1911,Neubertstraße,3,"Neubertstraße, 3, Dresden",51.0591219,13.7742846,193,Entlüftung,3,900,1
+205,PE-FWI-3-3268,Bergfelderweg,9,"Bergfelderweg, 9, Dresden",51.0231313,13.8033533,194,Abzweigung,3,660,1
+206,PE-FWI-4-6989,Dobritzer Straße,10,"Dobritzer Straße, 10, Dresden",51.0233879,13.8046477,195,Erdarmatur,4,720,3
+207,PE-FWI-3-8229,Geystraße,25,"Geystraße, 25, Dresden",51.0239408,13.7544919,196,Belüftung,3,600,1
+208,PE-FWI-2-5656,Baluschekstraße,4,"Baluschekstraße, 4, Dresden",51.0452218,13.7030711,197,KontrollBauwerk,2,840,2
+209,PE-FWI-2-2450,Alexander-Herzen-Straße,8,"Alexander-Herzen-Straße, 8, Dresden",51.11713035,13.7846512384,198,Kontrollschacht,2,600,2
+210,PE-FWI-4-1661,Mühlsdorfer Weg,14,"Mühlsdorfer Weg, 14, Dresden",51.0114003,13.8209701,199,Erdarmatur,4,600,3
+211,PE-FWI-2-293,Meisenweg,3,"Meisenweg, 3, Dresden",51.0101211,13.7926708,200,Kontrollschacht,2,720,2
+212,PE-FWI-4-8574,Münchner Straße,15,"Münchner Straße, 15, Dresden",51.032685,13.7298377,201,Erdarmatur,4,600,3
+213,PE-FWI-4-7527,Wiener Platz,2,"Wiener Platz, 2, Dresden",51.041271,13.7309737418,202,Erdarmatur,4,660,3
+214,PE-FWI-4-3600,Altmarkt,23,"Altmarkt, 23, Dresden",51.0496576,13.7366244,203,Erdarmatur,4,660,3
+215,PE-FWI-2-2769,Finsterwalder Straße,19,"Finsterwalder Straße, 19, Dresden",51.0052337,13.8024745,204,Zuluftschacht,2,1080,2
+216,PE-FWI-2-4375,Am Schießhaus,10,"Am Schießhaus, 10, Dresden",51.0545044,13.727992799999999,205,KontrollBauwerk,2,900,2
+217,PE-FWI-2-5,Hohenthalplatz,6,"Hohenthalplatz, 6, Dresden",51.0587375,13.7135093846,206,Kontrollschacht,2,840,2
+218,PE-FWI-2-5110,Ginsterstraße,22,"Ginsterstraße, 22, Dresden",51.051186,13.666081,207,Kontrollschacht,2,600,2
+219,PE-FWI-4-907,Böllstraße,20,"Böllstraße, 20, Dresden",51.0218048,13.7339882,208,Erdarmatur,4,600,3
+220,PE-FWI-4-7163,Neubertstraße,6,"Neubertstraße, 6, Dresden",51.0591219,13.7742846,193,Erdarmatur,4,720,3
+221,PE-FWI-4-9494,Dülferstraße,6,"Dülferstraße, 6, Dresden",51.0271374,13.7275644,209,Erdarmatur,4,900,3
+222,PE-FWI-2-6916,Sudhausweg,5,"Sudhausweg, 5, Dresden",51.0694601,13.7773286,210,Kontrollschacht,2,660,2
+223,PE-FWI-2-3282,Wallstraße,12,"Wallstraße, 12, Dresden",51.0490104,13.7336407,211,KontrollBauwerk,2,840,2
+224,PE-FWI-3-1448,Schanzenstraße,5,"Schanzenstraße, 5, Dresden",51.0758445,13.7494661981,212,Entlüftung,3,780,1
+225,PE-FWI-4-2832,Bulgakowstraße,4,"Bulgakowstraße, 4, Dresden",51.0216598,13.7359626,213,Erdarmatur,4,660,3
+226,PE-FWI-4-4767,Schießgasse / Tzschirnerplatz,-,"Schießgasse & Tzschirnerplatz, Dresden",51.0513599874,13.74469998,214,Erdarmatur,4,900,3
+227,PE-FWI-2-3838,Ritterstraße,20,"Ritterstraße, 20, Dresden",51.0601401,13.7444469,215,KontrollBauwerk,2,780,2
+228,PE-FWI-2-963,Schumannstraße,15,"Schumannstraße, 15, Dresden",51.0447605,13.7656699,216,Zuluftschacht,2,1020,2
+229,PE-FWI-4-9637,Hirschbacher Weg,7,"Hirschbacher Weg, 7, Dresden",51.0306054,13.7945625,217,Erdarmatur,4,720,3
+230,PE-FWI-2-9806,Suttnerstraße,13,"Suttnerstraße, 13, Dresden",51.021707,13.8128022,131,Zuluftschacht,2,900,2
+231,PE-FWI-1-3846,Muldaer Straße,28,"Muldaer Straße, 28, Dresden",51.0210547,13.7158879,218,Brunnen,1,1200,3
+232,PE-FWI-2-6670,Dörnichtweg,30,"Dörnichtweg, 30, Dresden",51.1165869,13.7708528,219,Zuluftschacht,2,1140,2
+233,PE-FWI-3-4600,Neumarkt,1,"Neumarkt, 1, Dresden",51.0518885,13.7403526,220,Belüftung,3,780,1
+234,PE-FWI-4-6045,Altdobritz,3,"Altdobritz, 3, Dresden",51.0187173,13.8121793231,221,Erdarmatur,4,660,3
+235,PE-FWI-4-6108,Barbarossaplatz,7,"Barbarossaplatz, 7, Dresden",51.0484236,13.7907206065,222,Erdarmatur,4,900,3
+236,PE-FWI-2-2071,Altenberger Straße,90,"Altenberger Straße, 90, Dresden",51.0320991,13.8085408,223,KontrollBauwerk,2,900,2
+237,PE-FWI-4-9436,Mügelner Straße / Seidnitzer Weg,-,"Mügelner Straße & Seidnitzer Weg, Dresden",51.0124599938,13.798650016,224,Erdarmatur,4,720,3
+238,PE-FWI-2-9287,Maria-Cebotari-Straße,23,"Maria-Cebotari-Straße, 23, Dresden",51.0513721,13.7713806,225,Kontrollschacht,2,600,2
+239,PE-FWI-4-5678,Marienallee,9,"Marienallee, 9, Dresden",51.0704076,13.7659871,226,Erdarmatur,4,600,3
+240,PE-FWI-2-8369,Heinrich-Tessenow-Weg,1,"Heinrich-Tessenow-Weg, 1, Dresden",51.1125921,13.7588107525,227,KontrollBauwerk,2,780,2
+241,PE-FWI-1-699,Hepkestraße,122,"Hepkestraße, 122, Dresden",51.0347261,13.79874,228,Stütze,1,720,3
+242,PE-FWI-2-3915,Reisstraße,34,"Reisstraße, 34, Dresden",51.006977,13.8236892,229,Zuluftschacht,2,1200,2
+243,PE-FWI-1-8367,Seidnitzer Straße,6,"Seidnitzer Straße, 6, Dresden",51.0476031,13.752844275,230,Stütze,1,840,3
+244,PE-FWI-4-9927,Bünaustraße,25,"Bünaustraße, 25, Dresden",51.04018775,13.6994034962,231,Erdarmatur,4,720,3
+245,PE-FWI-4-8192,Hasenberg,5,"Hasenberg, 5, Dresden",51.0532684,13.7467277,232,Erdarmatur,4,780,3
+246,PE-FWI-2-5332,Lassallestraße,7,"Lassallestraße, 7, Dresden",51.0190054,13.811045182099999,233,KontrollBauwerk,2,780,2
+247,PE-FWI-2-3517,Rudolfstraße,5,"Rudolfstraße, 5, Dresden",51.0688156,13.7402826,234,KontrollBauwerk,2,720,2
+248,PE-FWI-1-6962,Hahnebergstraße,7,"Hahnebergstraße, 7, Dresden",51.0402257,13.7170067,235,Rohrbrücke,1,1080,3
+249,PE-FWI-2-3713,Strehlener Platz,3,"Strehlener Platz, 3, Dresden",51.0337166,13.7496199,236,KontrollBauwerk,2,720,2
+250,PE-FWI-2-6204,Provianthofstraße,9,"Provianthofstraße, 9, Dresden",51.0821977,13.7599004,237,Zuluftschacht,2,960,2
+251,PE-FWI-3-5291,Altleuben,12,"Altleuben, 12, Dresden",51.0111726,13.8264036,238,Abzweigung,3,720,1
+252,PE-FWI-2-168,Hopfgartenstraße,15,"Hopfgartenstraße, 15, Dresden",51.0538838,13.7625182,239,Zuluftschacht,2,1020,2
+253,PE-FWI-4-2852,Georgenstraße,4,"Georgenstraße, 4, Dresden",51.062224,13.7486279,240,Erdarmatur,4,780,3
+254,PE-FWI-2-5923,Landhausstraße,10,"Landhausstraße, 10, Dresden",51.0510173,13.7415291,170,Kontrollschacht,2,780,2
+255,PE-FWI-3-2250,Helmholtzstraße,16,"Helmholtzstraße, 16, Dresden",51.02746265,13.7237928869,241,Abzweigung,3,600,1
+256,PE-FWI-4-736,Hertzstraße,7,"Hertzstraße, 7, Dresden",51.0117262,13.8245385,242,Erdarmatur,4,600,3
+257,PE-FWI-3-4257,Stresemannplatz,1,"Stresemannplatz, 1, Dresden",51.04388815,13.7740369765,243,Belüftung,3,660,1
+258,PE-FWI-2-5457,Gubener Straße,30,"Gubener Straße, 30, Dresden",51.0094076,13.7967539,244,KontrollBauwerk,2,600,2
+259,PE-FWI-3-9509,Kesselsdorfer Straße,23,"Kesselsdorfer Straße, 23, Dresden",51.043343,13.6979972,245,Entlüftung,3,720,1
+260,PE-FWI-2-7882,Am Steingarten,6,"Am Steingarten, 6, Dresden",51.0061819,13.8144741,246,Zuluftschacht,2,1080,2
+261,PE-FWI-4-1826,Cranachstraße,4,"Cranachstraße, 4, Dresden",51.0492584,13.7669447,247,Erdarmatur,4,600,3
+262,PE-FWI-1-1226,Ikarusweg,4,"Ikarusweg, 4, Dresden",51.1314436,13.7860212,248,Armatur,1,600,3
+263,PE-FWI-2-5640,Gerokstraße,10,"Gerokstraße, 10, Dresden",51.0537589,13.7588946,249,Zuluftschacht,2,960,2
+264,PE-FWI-1-6444,Am Steingarten,3,"Am Steingarten, 3, Dresden",51.00628695,13.814983065,250,Bauwerk,1,1260,3
+265,PE-FWI-4-4333,Hartmut-Dost-Straße,1,"Hartmut-Dost-Straße, 1, Dresden",51.0804164,13.7533159,251,Erdarmatur,4,900,3
+266,PE-FWI-2-2714,Ockerwitzer Straße,13,"Ockerwitzer Straße, 13, Dresden",51.05854795,13.6821554468,252,KontrollBauwerk,2,660,2
+267,PE-FWI-4-5447,Brünner Straße,8,"Brünner Straße, 8, Dresden",51.02746975,13.8284475019,253,Erdarmatur,4,720,3
+268,PE-FWI-2-3721,Konkordienstraße,55,"Konkordienstraße, 55, Dresden",51.0760343,13.7216120429,254,Kontrollschacht,2,780,2
+269,PE-FWI-2-4028,Tharandter Straße,49,"Tharandter Straße, 49, Dresden",51.0352703,13.7044008,255,Zuluftschacht,2,960,2
+270,PE-FWI-2-5939,Zur Steinhöhe,4,"Zur Steinhöhe, 4, Dresden",51.1337939,13.7788677,152,Zuluftschacht,2,900,2
+271,PE-FWI-4-8877,An der Herzogin Garten,12,"An der Herzogin Garten, 12, Dresden",51.0546094,13.7287055,256,Erdarmatur,4,780,3
+272,PE-FWI-3-7842,Leubnitzer Str.,3,"Leubnitzer Str., 3, Dresden",51.0394691,13.7200979,257,Abzweigung,3,780,1
+273,PE-FWI-2-7921,Jahnstraße,1,"Jahnstraße, 1, Dresden",51.0540622,13.7241059,258,KontrollBauwerk,2,600,2
+274,PE-FWI-3-3371,Lukasplatz,5,"Lukasplatz, 5, Dresden",51.0319969,13.7348679,259,Abzweigung,3,660,1
+275,PE-FWI-2-4504,Wilsdruffer Straße,3,"Wilsdruffer Straße, 3, Dresden",51.0492917,13.7433884,260,Kontrollschacht,2,600,2
+276,PE-FWI-2-6029,Pieschener Allee,1,"Pieschener Allee, 1, Dresden",51.0611433,13.7273511,261,Kontrollschacht,2,900,2
+277,PE-FWI-3-9636,Michelangelostraße,10,"Michelangelostraße, 10, Dresden",51.0233158,13.7445389,262,Belüftung,3,780,1
+278,PE-FWI-4-5952,Haeckelstraße,2,"Haeckelstraße, 2, Dresden",51.0272457,13.7321845,263,Erdarmatur,4,840,3
+279,PE-FWI-4-914,Königstraße,18,"Königstraße, 18, Dresden",51.0615848,13.7433733,264,Erdarmatur,4,840,3
+280,PE-FWI-2-8519,Saxoniastraße,23,"Saxoniastraße, 23, Dresden",51.0435188,13.7073867,265,Kontrollschacht,2,720,2
+281,PE-FWI-4-4434,Moränenende,8,"Moränenende, 8, Dresden",51.0114256,13.8080695,266,Erdarmatur,4,600,3
+282,PE-FWI-4-4558,Schlüterstraße,26,"Schlüterstraße, 26, Dresden",51.0393204,13.7930304,267,Erdarmatur,4,600,3
+283,PE-FWI-4-1087,Bertolt-Brecht-Allee,34,"Bertolt-Brecht-Allee, 34, Dresden",51.0402953,13.7793688,268,Erdarmatur,4,720,3
+284,PE-FWI-2-8031,Postelwitzer Straße,9,"Postelwitzer Straße, 9, Dresden",51.034598,13.7861974,269,Zuluftschacht,2,1020,2
+285,PE-FWI-4-2805,Geystraße,4,"Geystraße, 4, Dresden",51.0246133,13.757289,270,Erdarmatur,4,720,3
+286,PE-FWI-1-2811,Semmelweisstraße,5,"Semmelweisstraße, 5, Dresden",51.0508298,13.7080832,271,Brunnen,1,1080,3
+287,PE-FWI-4-9639,Bärwalder Straße,13,"Bärwalder Straße, 13, Dresden",51.0816639,13.7433952,272,Erdarmatur,4,900,3
+288,PE-FWI-1-4106,Georg-Wrba-Straße,29,"Georg-Wrba-Straße, 29, Dresden",51.0329712,13.7462304,273,Rohrbrücke,1,1320,3
+289,PE-FWI-4-1006,Eibenstocker Straße,36,"Eibenstocker Straße, 36, Dresden",51.0392066,13.7903712,274,Erdarmatur,4,600,3
+290,PE-FWI-4-5527,Langebrücker Straße,5,"Langebrücker Straße, 5, Dresden",51.11964515,13.791337414200001,275,Erdarmatur,4,780,3
+291,PE-FWI-3-9079,Senftenberger Straße,36,"Senftenberger Straße, 36, Dresden",51.0040313,13.8038746,276,Abzweigung,3,720,1
+292,PE-FWI-3-3564,Siebekingstraße,5,"Siebekingstraße, 5, Dresden",51.0389034,13.7865029,277,Belüftung,3,600,1
+293,PE-FWI-4-5908,Schweriner Straße / Grüne Straße 11a,-,"Schweriner Straße & Grüne Straße 11a, Dresden",51.0527999983,13.727439965,278,Erdarmatur,4,780,3
+294,PE-FWI-1-6042,Glasewaldtstraße,35,"Glasewaldtstraße, 35, Dresden",51.04366975,13.8019263515,279,Bauwerk,1,1200,3
+295,PE-FWI-2-7702,Teplitzer Straße,3,"Teplitzer Straße, 3, Dresden",51.0262058,13.7557591,280,Zuluftschacht,2,1080,2
+296,PE-FWI-3-9941,Hagebuttenweg,2,"Hagebuttenweg, 2, Dresden",51.0493453,13.6571379,281,Belüftung,3,900,1
+297,PE-FWI-1-2998,Seidnitzer Straße,8,"Seidnitzer Straße, 8, Dresden",51.0478979,13.7529258,282,Stütze,1,720,3
+298,PE-FWI-4-1693,Schützengasse,5,"Schützengasse, 5, Dresden",51.05418195,13.7271042621,283,Erdarmatur,4,900,3
+299,PE-FWI-4-9325,Zellescher Weg/Schinkelstraße,-,"Zellescher Weg & Schinkelstraße, Dresden",51.0280281564,13.7473416254,284,Erdarmatur,4,600,3
+300,PE-FWI-2-8262,Uhlandstraße,23,"Uhlandstraße, 23, Dresden",51.0384709,13.7402833,285,Zuluftschacht,2,1020,2
+301,PE-FWI-4-152,Erna-Sack-Straße,7,"Erna-Sack-Straße, 7, Dresden",50.9906421,13.789359,286,Erdarmatur,4,600,3
+302,PE-FWI-4-2025,Große Meißner Straße,3,"Große Meißner Straße, 3, Dresden",51.0592989,13.7390533,287,Erdarmatur,4,840,3
+303,PE-FWI-2-3434,Wintergartenstraße,1,"Wintergartenstraße, 1, Dresden",51.0446477,13.7609068,288,Kontrollschacht,2,660,2
+304,PE-FWI-4-7491,Auguste-Lazar-Straße,4,"Auguste-Lazar-Straße, 4, Dresden",51.0202055,13.7338517,289,Erdarmatur,4,900,3
+305,PE-FWI-4-1337,Uhlandstr.,9,"Uhlandstr., 9, Dresden",51.0384709,13.7402833,285,Erdarmatur,4,660,3
+306,PE-FWI-4-4000,Florian-Geyer-Straße,13,"Florian-Geyer-Straße, 13, Dresden",51.0577438,13.7626264,290,Erdarmatur,4,660,3
+307,PE-FWI-4-9756,Am Jägerpark,12,"Am Jägerpark, 12, Dresden",51.0729986,13.7878953,291,Erdarmatur,4,900,3
+308,PE-FWI-2-5725,Am Brauhaus,9,"Am Brauhaus, 9, Dresden",51.0670648,13.7800045,292,Kontrollschacht,2,720,2
+309,PE-FWI-2-7834,Strehlener Platz,9,"Strehlener Platz, 9, Dresden",51.0339576,13.7493114,293,Kontrollschacht,2,840,2
+310,PE-FWI-4-7628,Alfred-Althus-Straße,14,"Alfred-Althus-Straße, 14, Dresden",51.0523611,13.7243954,294,Erdarmatur,4,600,3
+311,PE-FWI-1-1320,Richard-Rösch-Straße,20,"Richard-Rösch-Straße, 20, Dresden",51.0921725,13.7032203,295,Armatur,1,780,3
+312,PE-FWI-1-8472,Schönaer Straße,47,"Schönaer Straße, 47, Dresden",51.0032233,13.8377638,296,Rohrbrücke,1,900,3
+313,PE-FWI-4-1011,Zwickauer Straße,117,"Zwickauer Straße, 117, Dresden",51.03085075,13.7057043969,297,Erdarmatur,4,780,3
+314,PE-FWI-4-7444,Hopfgartenstraße,3,"Hopfgartenstraße, 3, Dresden",51.054255,13.7651419,298,Erdarmatur,4,600,3
+315,PE-FWI-2-3290,Georg-Mehrtens-Straße,9,"Georg-Mehrtens-Straße, 9, Dresden",51.0154532,13.793482,299,Zuluftschacht,2,1200,2
+316,PE-FWI-2-2906,Kleestraße,5,"Kleestraße, 5, Dresden",51.0921869,13.7024966,300,Kontrollschacht,2,840,2
+317,PE-FWI-1-4832,Struvestraße,5,"Struvestraße, 5, Dresden",51.0417006,13.7401119,301,Rohrbrücke,1,1080,3
+318,PE-FWI-4-1372,Vetschauer Straße,16,"Vetschauer Straße, 16, Dresden",51.0106721,13.7960393,302,Erdarmatur,4,720,3
+319,PE-FWI-4-2493,Schlömilchstraße,7,"Schlömilchstraße, 7, Dresden",51.03438245,13.817469150099999,303,Erdarmatur,4,600,3
+320,PE-FWI-4-9521,Zur Wetterwarte,53,"Zur Wetterwarte, 53, Dresden",51.1309572,13.7800155,304,Erdarmatur,4,600,3
+321,PE-FWI-3-1307,Zellescher Weg,39,"Zellescher Weg, 39, Dresden",51.0293861,13.7338776,305,Entlüftung,3,780,1
+322,PE-FWI-4-8500,Seidnitzer Weg,10,"Seidnitzer Weg, 10, Dresden",51.0151329,13.8002496,306,Erdarmatur,4,720,3
+323,PE-FWI-2-7729,Hans-Grundig-Straße/Gerokstraße,-,"Hans-Grundig-Straße & Gerokstraße, Dresden",51.0531400102,13.7619399623,307,KontrollBauwerk,2,720,2
+324,PE-FWI-4-5226,Am See,7,"Am See, 7, Dresden",51.0492185,13.7314856,308,Erdarmatur,4,900,3
+325,PE-FWI-4-4678,Hermann-Hesse-Straße,11,"Hermann-Hesse-Straße, 11, Dresden",51.0653133,13.8192206,309,Erdarmatur,4,900,3
+326,PE-FWI-4-9938,Talstraße,2,"Talstraße, 2, Dresden",51.0655168,13.7583224074,310,Erdarmatur,4,900,3
+327,PE-FWI-4-4138,Johnsbacher Weg,12,"Johnsbacher Weg, 12, Dresden",51.0300031,13.81024,311,Erdarmatur,4,900,3
+328,PE-FWI-4-6334,Fischhausstraße,10,"Fischhausstraße, 10, Dresden",51.06846595,13.786942142000001,312,Erdarmatur,4,900,3
+329,PE-FWI-4-3436,Pulsnitzer Straße,17,"Pulsnitzer Straße, 17, Dresden",51.0634188,13.7575342,313,Erdarmatur,4,900,3
+330,PE-FWI-2-1010,Förstereistraße,7,"Förstereistraße, 7, Dresden",51.0714597,13.7527777,314,KontrollBauwerk,2,840,2
+331,PE-FWI-2-3913,Birkenstraße,13,"Birkenstraße, 13, Dresden",51.047543,13.6668297,315,Kontrollschacht,2,720,2
+332,PE-FWI-2-1479,Heynahtsstraße,2,"Heynahtsstraße, 2, Dresden",51.0361858,13.7886864,316,Zuluftschacht,2,1200,2
+333,PE-FWI-2-5140,Händelallee,2,"Händelallee, 2, Dresden",51.05975745,13.78747985,317,Kontrollschacht,2,720,2
+334,PE-FWI-3-8895,Trattendorfer Straße,5,"Trattendorfer Straße, 5, Dresden",51.0097344,13.800396,318,Belüftung,3,720,1
+335,PE-FWI-2-3060,Reicker Straße,19,"Reicker Straße, 19, Dresden",51.0257275,13.768939601,319,Kontrollschacht,2,660,2
+336,PE-FWI-4-72,Alexander-Puschkin-Platz,1,"Alexander-Puschkin-Platz, 1, Dresden",51.06992195,13.7294836,320,Erdarmatur,4,840,3
+337,PE-FWI-4-9670,Florian-Geyer-Straße,52,"Florian-Geyer-Straße, 52, Dresden",51.056766,13.7609144,321,Erdarmatur,4,900,3
+338,PE-FWI-3-2027,Dr.-Külz-Ring,15,"Dr.-Külz-Ring, 15, Dresden",51.0476331,13.7375834,322,Belüftung,3,600,1
+339,PE-FWI-4-4143,Mohorner Straße,13,"Mohorner Straße, 13, Dresden",51.034529,13.7005079003,323,Erdarmatur,4,780,3
+340,PE-FWI-2-3256,Pfotenhauerstraße,36,"Pfotenhauerstraße, 36, Dresden",51.0551173,13.7658587,324,Kontrollschacht,2,600,2
+341,PE-FWI-4-5845,Leubnitzer Straße,28,"Leubnitzer Straße, 28, Dresden",51.03697385,13.7262046686,325,Erdarmatur,4,840,3
+342,PE-FWI-4-2325,St.Petersburger Straße / Grunaer Straße,-,"St.Petersburger Straße & Grunaer Straße, Dresden",51.0490000206,13.7453800038,759,Erdarmatur,4,780,3
+343,PE-FWI-4-5942,Am Brauhaus,6,"Am Brauhaus, 6, Dresden",51.0683274,13.7775608,326,Erdarmatur,4,840,3
+344,PE-FWI-2-2472,Pestitzer Weg,11,"Pestitzer Weg, 11, Dresden",51.0272271,13.750189,327,Zuluftschacht,2,1020,2
+345,PE-FWI-2-7485,Donathstraße,26,"Donathstraße, 26, Dresden",51.0270898,13.8285576,328,Kontrollschacht,2,780,2
+346,PE-FWI-4-6422,Liebethaler Weg,7,"Liebethaler Weg, 7, Dresden",51.0337017,13.7969323,329,Erdarmatur,4,720,3
+347,PE-FWI-4-728,Tittmannstraße,3,"Tittmannstraße, 3, Dresden",51.0518495,13.7874434,330,Erdarmatur,4,600,3
+348,PE-FWI-4-3522,Weideweg,13,"Weideweg, 13, Dresden",51.0425736,13.6605723,331,Erdarmatur,4,600,3
+349,PE-FWI-4-4125,Toeplerstraße,58,"Toeplerstraße, 58, Dresden",51.0274915,13.8196027,332,Erdarmatur,4,780,3
+350,PE-FWI-2-338,Freiberger Platz,8,"Freiberger Platz, 8, Dresden",51.0500434,13.7253758,127,Kontrollschacht,2,780,2
+351,PE-FWI-4-3260,Gabelsberger Straße,9,"Gabelsberger Straße, 9, Dresden",51.0498352,13.7740102,66,Erdarmatur,4,900,3
+352,PE-FWI-2-5351,Dohnaer Straße,190,"Dohnaer Straße, 190, Dresden",51.00293165,13.789855435,333,Zuluftschacht,2,1140,2
+353,PE-FWI-4-1769,Dr.-Friedrich-Wolf-Straße,28,"Dr.-Friedrich-Wolf-Straße, 28, Dresden",51.06752185,13.7454742588,334,Erdarmatur,4,900,3
+354,PE-FWI-2-3546,Uhlandstraße,25,"Uhlandstraße, 25, Dresden",51.0351963,13.7387628,335,Zuluftschacht,2,1140,2
+355,PE-FWI-4-7656,Wasastraße,1,"Wasastraße, 1, Dresden",51.03169035,13.757597541700001,336,Erdarmatur,4,900,3
+356,PE-FWI-4-2254,Lindenaustraße,5,"Lindenaustraße, 5, Dresden",51.03813435,13.7301336606,337,Erdarmatur,4,720,3
+357,PE-FWI-2-3441,Sadisdorfer Weg,6,"Sadisdorfer Weg, 6, Dresden",51.0194336,13.7208948,338,KontrollBauwerk,2,780,2
+358,PE-FWI-2-431,Mommsenstraße,11,"Mommsenstraße, 11, Dresden",51.0267562,13.7277236989,339,Zuluftschacht,2,900,2
+359,PE-FWI-3-708,Gohliser Straße,5,"Gohliser Straße, 5, Dresden",51.04452085,13.69653055,340,Belüftung,3,840,1
+360,PE-FWI-4-9155,Lingnerplatz,3,"Lingnerplatz, 3, Dresden",51.0441295,13.7473323,341,Erdarmatur,4,840,3
+361,PE-FWI-3-3073,Neumarkt,4,"Neumarkt, 4, Dresden",51.05130985,13.7407112798,342,Abzweigung,3,600,1
+362,PE-FWI-2-434,Schützenhöhe,18,"Schützenhöhe, 18, Dresden",51.0810858,13.7514493,343,KontrollBauwerk,2,900,2
+363,PE-FWI-4-518,Sebnitzer Straße,41,"Sebnitzer Straße, 41, Dresden",51.0682013,13.7581169582,344,Erdarmatur,4,840,3
+364,PE-FWI-4-8374,Böllstraße,14,"Böllstraße, 14, Dresden",51.0219004,13.7333857,345,Erdarmatur,4,720,3
+365,PE-FWI-4-3559,Katharinenstraße,1,"Katharinenstraße, 1, Dresden",51.06661425,13.7477478223,346,Erdarmatur,4,780,3
+366,PE-FWI-4-1935,Wurzener Straße,54,"Wurzener Straße, 54, Dresden",51.08103815,13.7167547625,347,Erdarmatur,4,600,3
+367,PE-FWI-2-8063,Hetzdorfer Straße,3,"Hetzdorfer Straße, 3, Dresden",51.046374,13.6752232,348,Kontrollschacht,2,780,2
+368,PE-FWI-3-9799,An der Mauer,7,"An der Mauer, 7, Dresden",51.0479314,13.738387,349,Belüftung,3,840,1
+369,PE-FWI-4-6167,Tzschimmerstraße,10,"Tzschimmerstraße, 10, Dresden",51.0470893,13.7958196,350,Erdarmatur,4,840,3
+370,PE-FWI-4-3822,Geblerstraße,8,"Geblerstraße, 8, Dresden",51.0911652,13.7024523687,351,Erdarmatur,4,600,3
+371,PE-FWI-2-9524,Tiergartenstraße,76,"Tiergartenstraße, 76, Dresden",51.0295434,13.7703095886,352,KontrollBauwerk,2,720,2
+372,PE-FWI-3-9181,Dobritzer Straße,5,"Dobritzer Straße, 5, Dresden",51.0243723,13.8055118,353,Entlüftung,3,660,1
+373,PE-FWI-4-8823,Stauffenbergallee,36,"Stauffenbergallee, 36, Dresden",51.0774049,13.7530533,354,Erdarmatur,4,600,3
+374,PE-FWI-2-7172,Bergstraße,8,"Bergstraße, 8, Dresden",51.0389796,13.728264,355,Zuluftschacht,2,960,2
+375,PE-FWI-4-3315,Theresienstraße,18,"Theresienstraße, 18, Dresden",51.0625521,13.7442301,356,Erdarmatur,4,900,3
+376,PE-FWI-4-6944,Münzmeisterstraße,12,"Münzmeisterstraße, 12, Dresden",51.0228233,13.7401675,357,Erdarmatur,4,660,3
+377,PE-FWI-2-7843,Schneebergstraße,9,"Schneebergstraße, 9, Dresden",51.0357804,13.7866918,358,Zuluftschacht,2,1020,2
+378,PE-FWI-2-5165,Kieler Straße,27,"Kieler Straße, 27, Dresden",51.11259685,13.7780349,359,Zuluftschacht,2,1200,2
+379,PE-FWI-3-7306,Nieritzstraße,1,"Nieritzstraße, 1, Dresden",51.0614321,13.742022,360,Entlüftung,3,660,1
+380,PE-FWI-4-4965,Sternstraße,1,"Sternstraße, 1, Dresden",51.0794074,13.7132027,361,Erdarmatur,4,900,3
+381,PE-FWI-4-6077,Stephanienplatz,3,"Stephanienplatz, 3, Dresden",51.0472235,13.7644246,362,Erdarmatur,4,660,3
+382,PE-FWI-4-149,Nicolaistraße,18,"Nicolaistraße, 18, Dresden",51.0465134,13.768686,363,Erdarmatur,4,720,3
+383,PE-FWI-1-8318,Röthenbacher Straße,5,"Röthenbacher Straße, 5, Dresden",51.0184994,13.7213684,364,Brunnen,1,1440,3
+384,PE-FWI-4-3015,Altseidnitz,2,"Altseidnitz, 2, Dresden",51.02767035,13.8025165003,365,Erdarmatur,4,660,3
+385,PE-FWI-2-4643,Prager Straße,8,"Prager Straße, 8, Dresden",51.0467921,13.7368939,366,KontrollBauwerk,2,660,2
+386,PE-FWI-4-1989,Sonnenblumenweg,18,"Sonnenblumenweg, 18, Dresden",51.0463029,13.6858851,367,Erdarmatur,4,600,3
+387,PE-FWI-4-112,Ritterstraße,5,"Ritterstraße, 5, Dresden",51.0601401,13.7444469,215,Erdarmatur,4,600,3
+388,PE-FWI-3-2467,Winterbergstraße,33,"Winterbergstraße, 33, Dresden",51.02990615,13.7845383992,368,Abzweigung,3,600,1
+389,PE-FWI-4-8360,Knappestraße,1,"Knappestraße, 1, Dresden",51.0275838,13.8165094,369,Erdarmatur,4,720,3
+390,PE-FWI-2-3224,Neundorfer Straße,32,"Neundorfer Straße, 32, Dresden",51.0123403,13.8177793,370,Zuluftschacht,2,1200,2
+391,PE-FWI-4-7121,Schweriner Straße,49,"Schweriner Straße, 49, Dresden",51.0519993,13.7291756,371,Erdarmatur,4,840,3
+392,PE-FWI-4-9312,Reichenbachstraße,26,"Reichenbachstraße, 26, Dresden",51.033198,13.7363575,372,Erdarmatur,4,660,3
+393,PE-FWI-2-5556,Marienstraße,9,"Marienstraße, 9, Dresden",51.0496509,13.7328743,373,Kontrollschacht,2,660,2
+394,PE-FWI-2-5186,Finsterwalder Straße,17,"Finsterwalder Straße, 17, Dresden",51.0053716,13.8024588,374,Zuluftschacht,2,1020,2
+395,PE-FWI-1-566,Brühlsche Terrasse,1,"Brühlsche Terrasse, 1, Dresden",51.0530039,13.7419394,375,Bauwerk,1,960,3
+396,PE-FWI-1-4061,Lipsiusstraße,9,"Lipsiusstraße, 9, Dresden",51.041616,13.772247,376,Brücke,1,1680,3
+397,PE-FWI-2-9959,Perronstraße,16,"Perronstraße, 16, Dresden",51.0142506,13.7839424,377,Zuluftschacht,2,1140,2
+398,PE-FWI-2-3455,Merianplatz,6,"Merianplatz, 6, Dresden",51.0455399,13.6707309,378,Zuluftschacht,2,1080,2
+399,PE-FWI-4-8991,Strehlener Straße,17,"Strehlener Straße, 17, Dresden",51.0377552,13.7370311,379,Erdarmatur,4,660,3
+400,PE-FWI-3-176,Chemnitzer Straße,5,"Chemnitzer Straße, 5, Dresden",51.0368012,13.7155933,380,Entlüftung,3,600,1
+401,PE-FWI-4-3477,Ostrauer Straße,3,"Ostrauer Straße, 3, Dresden",51.0350998,13.7889367,381,Erdarmatur,4,780,3
+402,PE-FWI-2-5980,Tannenstraße,5,"Tannenstraße, 5, Dresden",51.0740663,13.7517575,382,Kontrollschacht,2,840,2
+403,PE-FWI-3-6282,Ahlbecker Straße,5,"Ahlbecker Straße, 5, Dresden",51.118482,13.7691269,383,Entlüftung,3,780,1
+404,PE-FWI-3-6992,Donathstraße,10,"Donathstraße, 10, Dresden",51.0281186,13.8300563185,384,Entlüftung,3,600,1
+405,PE-FWI-4-6439,Kadenstraße,17,"Kadenstraße, 17, Dresden",51.0180757,13.8097953,385,Erdarmatur,4,900,3
+406,PE-FWI-2-9992,Mathias-Oeder-Straße,9,"Mathias-Oeder-Straße, 9, Dresden",51.0721322,13.7881563,386,KontrollBauwerk,2,900,2
+407,PE-FWI-3-8837,Neustädter Markt,1,"Neustädter Markt, 1, Dresden",51.0589219,13.7401162,387,Entlüftung,3,780,1
+408,PE-FWI-2-8670,Maternistraße,13,"Maternistraße, 13, Dresden",51.0486226,13.7238103,388,Zuluftschacht,2,1020,2
+409,PE-FWI-4-7613,Alttolkewitz,4,"Alttolkewitz, 4, Dresden",51.0315154,13.8308054,389,Erdarmatur,4,780,3
+410,PE-FWI-4-4682,Heideparkstraße,1,"Heideparkstraße, 1, Dresden",51.0691993,13.7861994395,390,Erdarmatur,4,660,3
+411,PE-FWI-2-1921,Auguste-Lazar-Straße,8,"Auguste-Lazar-Straße, 8, Dresden",51.0204602,13.7338705,391,KontrollBauwerk,2,660,2
+412,PE-FWI-3-3800,Kopernikusstraße,34,"Kopernikusstraße, 34, Dresden",51.0916265,13.7122293,392,Entlüftung,3,900,1
+413,PE-FWI-2-3334,Bremer Straße,31,"Bremer Straße, 31, Dresden",51.0615694,13.7117001,393,KontrollBauwerk,2,720,2
+414,PE-FWI-2-202,Franklinstraße,7,"Franklinstraße, 7, Dresden",51.037139,13.7444976,394,KontrollBauwerk,2,600,2
+415,PE-FWI-2-84,Uhdestraße,2,"Uhdestraße, 2, Dresden",51.0201273,13.7656419019,395,KontrollBauwerk,2,660,2
+416,PE-FWI-4-6978,Hans-Oster-Straße,6,"Hans-Oster-Straße, 6, Dresden",51.0747042,13.7569599,396,Erdarmatur,4,900,3
+417,PE-FWI-4-9282,Schloßplatz,2,"Schloßplatz, 2, Dresden",51.05345205,13.7384100813,397,Erdarmatur,4,840,3
+418,PE-FWI-4-778,Wilsdruffer Straße,1,"Wilsdruffer Straße, 1, Dresden",51.0508389,13.7343288,398,Erdarmatur,4,900,3
+419,PE-FWI-2-9034,Caspar-David-Friedrich-Straße,5,"Caspar-David-Friedrich-Straße, 5, Dresden",51.02745635,13.7584912995,399,Zuluftschacht,2,960,2
+420,PE-FWI-3-2066,Cottbuser Straße,17,"Cottbuser Straße, 17, Dresden",51.0884913,13.7183395,400,Abzweigung,3,660,1
+421,PE-FWI-2-5458,Melitta-Bentz-Straße,7,"Melitta-Bentz-Straße, 7, Dresden",51.0858274,13.7651973,401,Kontrollschacht,2,900,2
+422,PE-FWI-4-7920,Schießgasse,5,"Schießgasse, 5, Dresden",51.0513401,13.7446979,74,Erdarmatur,4,600,3
+423,PE-FWI-4-8969,Berzdorfer Straße,14,"Berzdorfer Straße, 14, Dresden",51.0070575,13.8001088,402,Erdarmatur,4,780,3
+424,PE-FWI-4-7434,Fröbelstraße,3,"Fröbelstraße, 3, Dresden",51.0511731,13.7154858,403,Erdarmatur,4,660,3
+425,PE-FWI-4-3313,Bulgakowstraße,6,"Bulgakowstraße, 6, Dresden",51.0216514,13.736187900000001,404,Erdarmatur,4,900,3
+426,PE-FWI-2-1034,Rudolfstraße,2,"Rudolfstraße, 2, Dresden",51.0684307,13.7407098,405,Zuluftschacht,2,1200,2
+427,PE-FWI-4-3288,Am Beutlerpark,2,"Am Beutlerpark, 2, Dresden",51.0316433,13.7414348526,406,Erdarmatur,4,720,3
+428,PE-FWI-2-9249,Schulgutstraße,2,"Schulgutstraße, 2, Dresden",51.0545885,13.7538214,407,KontrollBauwerk,2,780,2
+429,PE-FWI-1-6850,Sonnenblumenweg,15,"Sonnenblumenweg, 15, Dresden",51.077746,13.7387676,88,Brücke,1,1440,3
+430,PE-FWI-4-4146,Wilhelm-Lachnit-Straße,3,"Wilhelm-Lachnit-Straße, 3, Dresden",51.0165763,13.7792638,408,Erdarmatur,4,600,3
+431,PE-FWI-4-8774,Elisabeth-Boer-Straße,2,"Elisabeth-Boer-Straße, 2, Dresden",51.0817128,13.758068,409,Erdarmatur,4,840,3
+432,PE-FWI-4-4442,Dahlienweg,33,"Dahlienweg, 33, Dresden",51.0766715,13.7433189,410,Erdarmatur,4,780,3
+433,PE-FWI-4-7794,Wartburgstraße,30,"Wartburgstraße, 30, Dresden",51.04826875,13.7840593989,411,Erdarmatur,4,780,3
+434,PE-FWI-1-3640,Albert-Wolf-Platz,3,"Albert-Wolf-Platz, 3, Dresden",51.0078041,13.8040087,412,Stütze,1,780,3
+435,PE-FWI-3-3607,Grenzstraße,5,"Grenzstraße, 5, Dresden",51.08906665,13.6325199501,413,Abzweigung,3,840,1
+436,PE-FWI-2-6847,Lippersdorfer Weg,4,"Lippersdorfer Weg, 4, Dresden",51.0163436,13.7224626,414,Zuluftschacht,2,1080,2
+437,PE-FWI-3-1933,Mosczinskystraße,17,"Mosczinskystraße, 17, Dresden",51.0409783,13.7386419,415,Belüftung,3,900,1
+438,PE-FWI-3-6724,Spenerstraße,17,"Spenerstraße, 17, Dresden",51.048268,13.7855401048,416,Belüftung,3,840,1
+439,PE-FWI-4-8705,Königsufer,4,"Königsufer, 4, Dresden",51.0563245,13.7445344,417,Erdarmatur,4,780,3
+440,PE-FWI-4-3207,Hopfgartenstraße,2,"Hopfgartenstraße, 2, Dresden",51.0549931,13.7649527,418,Erdarmatur,4,900,3
+441,PE-FWI-1-6555,Güterbahnhofstraße,2,"Güterbahnhofstraße, 2, Dresden",51.0469353,13.72356,419,Armatur,1,720,3
+442,PE-FWI-4-7661,Rosmaringasse,3,"Rosmaringasse, 3, Dresden",51.0512611,13.7390669,420,Erdarmatur,4,780,3
+443,PE-FWI-4-1617,Enderstraße,23,"Enderstraße, 23, Dresden",51.0327881,13.8055505,421,Erdarmatur,4,840,3
+444,PE-FWI-1-1899,Schwindstraße,6,"Schwindstraße, 6, Dresden",51.0717623,13.6960588,422,Brunnen,1,960,3
+445,PE-FWI-2-7510,Spreewalder Straße,4,"Spreewalder Straße, 4, Dresden",51.0057096,13.7946165,423,Zuluftschacht,2,1080,2
+446,PE-FWI-4-6887,Am Waldschlößchen,4,"Am Waldschlößchen, 4, Dresden",51.0692347,13.7792388,424,Erdarmatur,4,660,3
+447,PE-FWI-4-365,Heinrichstraße,9,"Heinrichstraße, 9, Dresden",51.0600787,13.7399192,425,Erdarmatur,4,900,3
+448,PE-FWI-4-6628,Kretschmerstraße,3,"Kretschmerstraße, 3, Dresden",51.0502407,13.806955,426,Erdarmatur,4,720,3
+449,PE-FWI-1-6702,Kanzleigäßchen,2,"Kanzleigäßchen, 2, Dresden",51.0524893,13.7382089,427,Rohrbrücke,1,900,3
+450,PE-FWI-1-1373,Junghansstraße,58,"Junghansstraße, 58, Dresden",51.034567,13.7891215,428,Brücke,1,1620,3
+451,PE-FWI-2-6344,Maternistraße,19,"Maternistraße, 19, Dresden",51.0486226,13.7238103,388,KontrollBauwerk,2,720,2
+452,PE-FWI-2-4618,Louisenstraße,82,"Louisenstraße, 82, Dresden",51.0674202,13.7498973,429,Kontrollschacht,2,780,2
+453,PE-FWI-2-2660,Barbarossaplatz,6,"Barbarossaplatz, 6, Dresden",51.04879325,13.7914695641,430,Kontrollschacht,2,660,2
+454,PE-FWI-3-4511,Perronstraße,6,"Perronstraße, 6, Dresden",51.0127596,13.7854705,431,Belüftung,3,660,1
+455,PE-FWI-4-5179,Reisstraße,5,"Reisstraße, 5, Dresden",51.0096459,13.8273561,432,Erdarmatur,4,840,3
+456,PE-FWI-1-5512,Bahnhofstraße,12,"Bahnhofstraße, 12, Dresden",50.9994581,13.8332809,433,Bauwerk,1,1440,3
+457,PE-FWI-4-2298,Altenberger Straße,46,"Altenberger Straße, 46, Dresden",51.0367764,13.806492,434,Erdarmatur,4,840,3
+458,PE-FWI-1-423,Julius-Vahlteich-Straße,1,"Julius-Vahlteich-Straße, 1, Dresden",51.0483461,13.6810149,435,Armatur,1,900,3
+459,PE-FWI-4-5635,An der Frauenkirche,13,"An der Frauenkirche, 13, Dresden",51.0518041,13.7424593,436,Erdarmatur,4,600,3
+460,PE-FWI-2-3730,Schnorrstraße,26,"Schnorrstraße, 26, Dresden",51.0356314,13.7332149,437,Kontrollschacht,2,780,2
+461,PE-FWI-3-9380,Magdeburger Straße,9,"Magdeburger Straße, 9, Dresden",51.0580334,13.7271467,438,Abzweigung,3,840,1
+462,PE-FWI-1-3755,Hoyerswerdaer Straße,30,"Hoyerswerdaer Straße, 30, Dresden",51.0619747,13.7522729,439,Armatur,1,600,3
+463,PE-FWI-4-9534,Selliner Straße,63,"Selliner Straße, 63, Dresden",51.1208075,13.7808984,440,Erdarmatur,4,660,3
+464,PE-FWI-3-9471,Lübbenauer Straße,17,"Lübbenauer Straße, 17, Dresden",51.0119603,13.7957012,441,Abzweigung,3,660,1
+465,PE-FWI-4-5331,Jacob-Winter-Platz,4,"Jacob-Winter-Platz, 4, Dresden",51.0047763,13.7967892,442,Erdarmatur,4,600,3
+466,PE-FWI-2-6397,Rathener Straße,8,"Rathener Straße, 8, Dresden",51.0022759,13.8389924,443,Kontrollschacht,2,660,2
+467,PE-FWI-3-7030,Melitta-Bentz-Str.,3,"Melitta-Bentz-Str., 3, Dresden",51.0858274,13.7651973,401,Entlüftung,3,900,1
+468,PE-FWI-4-3310,Stadtgutstraße,15,"Stadtgutstraße, 15, Dresden",51.0261213,13.7334802,444,Erdarmatur,4,900,3
+469,PE-FWI-4-7043,Rubensweg,15,"Rubensweg, 15, Dresden",51.0224337,13.7463674,445,Erdarmatur,4,600,3
+470,PE-FWI-2-4741,Scharfenberger Straße,14,"Scharfenberger Straße, 14, Dresden",51.07444095,13.6991873913,446,KontrollBauwerk,2,840,2
+471,PE-FWI-4-6408,Helmholtzstraße,14,"Helmholtzstraße, 14, Dresden",51.0279296,13.7246669178,447,Erdarmatur,4,840,3
+472,PE-FWI-2-2039,Weintraubenstraße,2,"Weintraubenstraße, 2, Dresden",51.0603513,13.7558724646,448,Zuluftschacht,2,900,2
+473,PE-FWI-3-8003,Ammonstraße,26,"Ammonstraße, 26, Dresden",51.0423065,13.7306003,449,Belüftung,3,840,1
+474,PE-FWI-4-4642,Arno-Schellenberg-Straße,19,"Arno-Schellenberg-Straße, 19, Dresden",50.9908385,13.7879649,450,Erdarmatur,4,840,3
+475,PE-FWI-4-2745,Berliner Straße,3,"Berliner Straße, 3, Dresden",51.0540671,13.7184,451,Erdarmatur,4,900,3
+476,PE-FWI-2-47,Hechtstraße,23,"Hechtstraße, 23, Dresden",51.0739902,13.7466496,452,Zuluftschacht,2,1140,2
+477,PE-FWI-2-6417,Pestalozzistraße,12,"Pestalozzistraße, 12, Dresden",51.0513549,13.7566712,453,KontrollBauwerk,2,720,2
+478,PE-FWI-2-6006,Bernhardstraße,15,"Bernhardstraße, 15, Dresden",51.0379954,13.7257328,454,KontrollBauwerk,2,780,2
+479,PE-FWI-4-4269,Glasewaldtstraße,25,"Glasewaldtstraße, 25, Dresden",51.04469605,13.802891512,455,Erdarmatur,4,660,3
+480,PE-FWI-3-7222,Robert-Matzke-Straße,37,"Robert-Matzke-Straße, 37, Dresden",51.0792537,13.7149422,456,Belüftung,3,720,1
+481,PE-FWI-2-2204,Obergraben,10,"Obergraben, 10, Dresden",51.0603531,13.7408246,457,Kontrollschacht,2,840,2
+482,PE-FWI-3-1271,Charlotte-Bühler-Straße,9,"Charlotte-Bühler-Straße, 9, Dresden",51.0817721,13.7636941,458,Abzweigung,3,900,1
+483,PE-FWI-4-7361,Rugestraße,7,"Rugestraße, 7, Dresden",51.033711,13.7281029,459,Erdarmatur,4,600,3
+484,PE-FWI-3-4980,Freiberger Straße,13,"Freiberger Straße, 13, Dresden",51.0504416,13.7278122,460,Entlüftung,3,840,1
+485,PE-FWI-2-6814,Hallwachsstraße,9,"Hallwachsstraße, 9, Dresden",51.0261947,13.7269206,461,Kontrollschacht,2,900,2
+486,PE-FWI-3-379,Bertheltstraße,3,"Bertheltstraße, 3, Dresden",51.0460444,13.763591,462,Belüftung,3,780,1
+487,PE-FWI-2-6835,Bahnhofstraße,18,"Bahnhofstraße, 18, Dresden",50.999475,13.8344101,463,Kontrollschacht,2,840,2
+488,PE-FWI-4-3796,Enderstraße,86,"Enderstraße, 86, Dresden",51.03097225,13.8011679633,464,Erdarmatur,4,600,3
+489,PE-FWI-4-7117,Siemensstraße,8,"Siemensstraße, 8, Dresden",51.0036304,13.8293756,465,Erdarmatur,4,900,3
+490,PE-FWI-3-9831,Uhlandstraße,12,"Uhlandstraße, 12, Dresden",51.0360668,13.7386562,466,Abzweigung,3,900,1
+491,PE-FWI-4-1453,Oederaner Straße,10,"Oederaner Straße, 10, Dresden",51.04406285,13.7090259908,467,Erdarmatur,4,900,3
+492,PE-FWI-3-4031,Grunaer Weg,5,"Grunaer Weg, 5, Dresden",51.0284704,13.7776064,468,Abzweigung,3,780,1
+493,PE-FWI-3-2950,Boxberger Straße,26,"Boxberger Straße, 26, Dresden",51.0050629,13.803483,469,Abzweigung,3,840,1
+494,PE-FWI-3-7946,Schäferstraße,59,"Schäferstraße, 59, Dresden",51.0566095,13.7140926,470,Abzweigung,3,780,1
+495,PE-FWI-4-3330,Maulbeerenstraße,13,"Maulbeerenstraße, 13, Dresden",51.0511936,13.6650202,471,Erdarmatur,4,660,3
+496,PE-FWI-2-9042,Korolenkostraße,9,"Korolenkostraße, 9, Dresden",51.1137032,13.7782123977,472,KontrollBauwerk,2,660,2
+497,PE-FWI-4-8592,Otto-Dix-Ring,53,"Otto-Dix-Ring, 53, Dresden",51.0171235,13.7752397,473,Erdarmatur,4,840,3
+498,PE-FWI-3-9425,Nossener Brücke,6,"Nossener Brücke, 6, Dresden",51.0384786,13.7134734,474,Entlüftung,3,780,1
+499,PE-FWI-4-7028,Hospitalstraße,16,"Hospitalstraße, 16, Dresden",51.0601577,13.7483307,475,Erdarmatur,4,600,3
+500,PE-FWI-1-9794,Brünner Straße,11,"Brünner Straße, 11, Dresden",51.0269742,13.8300774125,476,Bauwerk,1,1140,3
+501,PE-FWI-4-6503,Heideparkstraße,8,"Heideparkstraße, 8, Dresden",51.0696514,13.7858080644,477,Erdarmatur,4,660,3
+502,PE-FWI-2-5407,Merianplatz,9,"Merianplatz, 9, Dresden",51.0455399,13.6707309,378,Kontrollschacht,2,660,2
+503,PE-FWI-2-7539,Sadisdorfer Weg 4 a / Kohlenstraße,-,"Sadisdorfer Weg 4 a & Kohlenstraße, Dresden",51.0194161353,13.7202642177,478,Zuluftschacht,2,1200,2
+504,PE-FWI-3-7838,Sadisdorfer weg 6 a / Kohlenstraße,-,"Sadisdorfer weg 6 a & Kohlenstraße, Dresden",51.0194058255,13.7210133922,479,Entlüftung,3,840,1
+505,PE-FWI-3-7198,St.Petersburger Straße,24,"St.Petersburger Straße, 24, Dresden",51.04406645,13.7373965239,480,Entlüftung,3,780,1
+506,PE-FWI-1-1476,Gerokstraße,6,"Gerokstraße, 6, Dresden",51.0537589,13.7588946,249,Brücke,1,1260,3
+507,PE-FWI-2-1455,Putbuser Weg,4,"Putbuser Weg, 4, Dresden",51.12346135,13.7803872546,481,Zuluftschacht,2,1080,2
+508,PE-FWI-2-4084,Rietzstraße,11,"Rietzstraße, 11, Dresden",51.0829728,13.7117933,482,KontrollBauwerk,2,660,2
+509,PE-FWI-2-6599,Am Zwingerteich,6,"Am Zwingerteich, 6, Dresden",51.0554324,13.7333149,483,KontrollBauwerk,2,660,2
+510,PE-FWI-4-3445,Keplerstraße,17,"Keplerstraße, 17, Dresden",51.0146804,13.7845808,484,Erdarmatur,4,720,3
+511,PE-FWI-2-8139,Prossener Straße,8,"Prossener Straße, 8, Dresden",51.0412744,13.7878221,485,KontrollBauwerk,2,660,2
+512,PE-FWI-3-884,Dornblüthstraße,15,"Dornblüthstraße, 15, Dresden",51.04526645,13.801162638000001,486,Abzweigung,3,600,1
+513,PE-FWI-2-670,Hermann-Seidel-Straße,8,"Hermann-Seidel-Straße, 8, Dresden",51.0271063,13.8333874,487,Kontrollschacht,2,840,2
+514,PE-FWI-2-6328,Jacob-Winter-Platz,3,"Jacob-Winter-Platz, 3, Dresden",51.0046309,13.7970487,488,Zuluftschacht,2,1140,2
+515,PE-FWI-3-1150,Weideweg,12,"Weideweg, 12, Dresden",51.0429775,13.6604517,489,Belüftung,3,780,1
+516,PE-FWI-2-8719,Herbststraße,6,"Herbststraße, 6, Dresden",51.0791402,13.7100478,490,Zuluftschacht,2,960,2
+517,PE-FWI-2-3165,Sosaer Straße,54,"Sosaer Straße, 54, Dresden",51.0024195,13.8196374,491,Kontrollschacht,2,600,2
+518,PE-FWI-3-8303,Salzgasse,3,"Salzgasse, 3, Dresden",51.0520665,13.7434494,117,Entlüftung,3,780,1
+519,PE-FWI-3-9132,Stephanienplatz,1,"Stephanienplatz, 1, Dresden",51.0471735,13.7643345,492,Entlüftung,3,720,1
+520,PE-FWI-4-3453,Am Anfang,1,"Am Anfang, 1, Dresden",51.0367876,13.793396,493,Erdarmatur,4,780,3
+521,PE-FWI-2-9996,Martin-Luther-Straße,1,"Martin-Luther-Straße, 1, Dresden",51.0632697,13.7549268,494,KontrollBauwerk,2,780,2
+522,PE-FWI-2-9789,Bergstraße,14,"Bergstraße, 14, Dresden",51.0384878,13.7283667,495,KontrollBauwerk,2,660,2
+523,PE-FWI-2-1072,Schäferstraße,38,"Schäferstraße, 38, Dresden",51.05653195,13.7152559813,496,Kontrollschacht,2,720,2
+524,PE-FWI-2-7726,Gabelsbergerstraße,11,"Gabelsbergerstraße, 11, Dresden",51.0498352,13.7740102,66,Zuluftschacht,2,1080,2
+525,PE-FWI-1-7175,Jessener Straße,36,"Jessener Straße, 36, Dresden",51.012174,13.8144784,497,Bauwerk,1,900,3
+526,PE-FWI-4-8828,Turnerweg,3,"Turnerweg, 3, Dresden",51.065072,13.7448874,498,Erdarmatur,4,600,3
+527,PE-FWI-4-3831,Blüherstraße,6,"Blüherstraße, 6, Dresden",51.0419572,13.7462981,499,Erdarmatur,4,840,3
+528,PE-FWI-2-3344,Leubnitzer Str.,8,"Leubnitzer Str., 8, Dresden",51.0391027,13.7215082,500,Kontrollschacht,2,720,2
+529,PE-FWI-4-7383,Prager Straße,5,"Prager Straße, 5, Dresden",51.04325815,13.7342869824,501,Erdarmatur,4,720,3
+530,PE-FWI-1-4017,Gehestraße,2,"Gehestraße, 2, Dresden",51.072984,13.7316557,502,Brunnen,1,1140,3
+531,PE-FWI-4-7887,Comeniusstraße,130,"Comeniusstraße, 130, Dresden",51.0433519,13.763929,503,Erdarmatur,4,780,3
+532,PE-FWI-3-7152,Poststraße,1,"Poststraße, 1, Dresden",51.04295335,13.7003411566,504,Belüftung,3,720,1
+533,PE-FWI-3-9223,Forsythienstraße,5,"Forsythienstraße, 5, Dresden",51.0465622,13.6553819,505,Abzweigung,3,600,1
+534,PE-FWI-2-7218,Mansfelder Straße,17,"Mansfelder Straße, 17, Dresden",51.0419971,13.7775971,506,Kontrollschacht,2,600,2
+535,PE-FWI-4-3601,Altenzeller Straße,11,"Altenzeller Straße, 11, Dresden",51.0365601,13.7231864,507,Erdarmatur,4,660,3
+536,PE-FWI-2-1061,Glacisstraße/Bautzner Straße 2,-,"Glacisstraße & Bautzner Straße 2, Dresden",51.0629099985,13.7488999841,508,Kontrollschacht,2,720,2
+537,PE-FWI-4-8093,Binzer Weg,7,"Binzer Weg, 7, Dresden",51.1248784,13.7908193,509,Erdarmatur,4,780,3
+538,PE-FWI-4-5049,Colmnitzer Straße,1,"Colmnitzer Straße, 1, Dresden",51.0476233,13.700258,510,Erdarmatur,4,840,3
+539,PE-FWI-2-8799,Wallotstraße,2,"Wallotstraße, 2, Dresden",51.0462164,13.7656231,511,Zuluftschacht,2,1140,2
+540,PE-FWI-3-4589,Reinickstraße,5,"Reinickstraße, 5, Dresden",51.0457107,13.7730095654,512,Belüftung,3,780,1
+541,PE-FWI-1-7648,Eibenstocker Straße,75,"Eibenstocker Straße, 75, Dresden",51.0364789,13.7991897,513,Rohrbrücke,1,960,3
+542,PE-FWI-4-9479,Wundtstraße,2,"Wundtstraße, 2, Dresden",51.03003,13.7485185,514,Erdarmatur,4,840,3
+543,PE-FWI-1-8621,Gasanstaltstraße,35,"Gasanstaltstraße, 35, Dresden",51.02394545,13.7900464561,515,Bauwerk,1,1020,3
+544,PE-FWI-4-7599,Hainbuchenstraße,1,"Hainbuchenstraße, 1, Dresden",51.0464103,13.6655325,516,Erdarmatur,4,660,3
+545,PE-FWI-2-5167,Seilergasse,6,"Seilergasse, 6, Dresden",51.0475565,13.7307566,517,Zuluftschacht,2,1020,2
+546,PE-FWI-4-3844,Löwenhainer Straße,29,"Löwenhainer Straße, 29, Dresden",51.0300015,13.8125777,518,Erdarmatur,4,600,3
+547,PE-FWI-3-5203,Weißbachstraße,9,"Weißbachstraße, 9, Dresden",51.0263752,13.7289595,519,Abzweigung,3,660,1
+548,PE-FWI-4-4450,Zinzendorfstraße,3,"Zinzendorfstraße, 3, Dresden",51.0453472,13.7443766,520,Erdarmatur,4,840,3
+549,PE-FWI-4-4935,Südhöhe,5,"Südhöhe, 5, Dresden",51.01939795,13.7468153321,521,Erdarmatur,4,660,3
+550,PE-FWI-4-8078,Schönaer Straße,14,"Schönaer Straße, 14, Dresden",51.003283,13.837644,522,Erdarmatur,4,660,3
+551,PE-FWI-4-3134,Sosaer Straße,4,"Sosaer Straße, 4, Dresden",50.9988912,13.8259531512,523,Erdarmatur,4,660,3
+552,PE-FWI-2-5117,Basteiplatz,9,"Basteiplatz, 9, Dresden",51.02889755,13.7702189124,524,Kontrollschacht,2,900,2
+553,PE-FWI-4-8625,Tornaer Straße,8,"Tornaer Straße, 8, Dresden",51.0124077,13.7889881,525,Erdarmatur,4,660,3
+554,PE-FWI-4-5691,Weißbachstraße,7,"Weißbachstraße, 7, Dresden",51.02677295,13.7295174846,526,Erdarmatur,4,720,3
+555,PE-FWI-3-5474,Lortzingstraße,14,"Lortzingstraße, 14, Dresden",51.0496979,13.772427,527,Belüftung,3,600,1
+556,PE-FWI-2-4203,Kopernikusstraße,51,"Kopernikusstraße, 51, Dresden",51.0912566,13.7064472,528,Kontrollschacht,2,780,2
+557,PE-FWI-2-4069,Volkersdorfer Straße,6,"Volkersdorfer Straße, 6, Dresden",51.0870574,13.7202798,529,Zuluftschacht,2,960,2
+558,PE-FWI-3-1035,Blochmannstr.,7,"Blochmannstr., 7, Dresden",51.0476684,13.754121,530,Entlüftung,3,840,1
+559,PE-FWI-2-5751,Hohenthalplatz,1,"Hohenthalplatz, 1, Dresden",51.0579945,13.7140764,531,KontrollBauwerk,2,660,2
+560,PE-FWI-2-1837,Am Schießhaus,1,"Am Schießhaus, 1, Dresden",51.0537618,13.7286315,532,KontrollBauwerk,2,840,2
+561,PE-FWI-4-4925,Lommatzscher Straße,66,"Lommatzscher Straße, 66, Dresden",51.0826821,13.7001768,533,Erdarmatur,4,720,3
+562,PE-FWI-4-3576,Am Dahlienheim,8,"Am Dahlienheim, 8, Dresden",51.0096296,13.8230218,534,Erdarmatur,4,840,3
+563,PE-FWI-2-9086,Espenstraße,3,"Espenstraße, 3, Dresden",51.0440255,13.6640069541,535,Zuluftschacht,2,1080,2
+564,PE-FWI-4-2246,Charlotte-Bühler-Straße,3,"Charlotte-Bühler-Straße, 3, Dresden",51.0819585,13.7610946,536,Erdarmatur,4,600,3
+565,PE-FWI-4-3991,Haydnstraße,6,"Haydnstraße, 6, Dresden",51.0480705,13.7714464,537,Erdarmatur,4,840,3
+566,PE-FWI-2-7165,Dinglingerstraße,7,"Dinglingerstraße, 7, Dresden",51.0483733,13.7612896,538,Zuluftschacht,2,1140,2
+567,PE-FWI-2-9676,Hermannstädter Straße,8,"Hermannstädter Straße, 8, Dresden",51.02092445,13.8391694128,539,Kontrollschacht,2,600,2
+568,PE-FWI-2-9459,Lichtenbergweg,4,"Lichtenbergweg, 4, Dresden",51.0907126,13.7103039,540,KontrollBauwerk,2,780,2
+569,PE-FWI-2-196,Leipziger Straße,29,"Leipziger Straße, 29, Dresden",51.0680461,13.7303715,541,Zuluftschacht,2,960,2
+570,PE-FWI-4-828,Otto-Dix-Ring,94,"Otto-Dix-Ring, 94, Dresden",51.0174623,13.7791514,542,Erdarmatur,4,840,3
+571,PE-FWI-4-383,Niederseidewitzer Weg,27,"Niederseidewitzer Weg, 27, Dresden",51.0108966,13.8139976,79,Erdarmatur,4,600,3
+572,PE-FWI-1-2177,Schützenhöhe,1,"Schützenhöhe, 1, Dresden",51.0810858,13.7514493,343,Stütze,1,720,3
+573,PE-FWI-4-2231,Lilienthalstraße,23,"Lilienthalstraße, 23, Dresden",51.0088037,13.8235165,543,Erdarmatur,4,600,3
+574,PE-FWI-3-4244,Otto-Dix-Ring,68,"Otto-Dix-Ring, 68, Dresden",51.0165214,13.7753379,544,Entlüftung,3,720,1
+575,PE-FWI-2-2559,Columbusstraße,2,"Columbusstraße, 2, Dresden",51.0449879,13.7052555518,545,Zuluftschacht,2,1080,2
+576,PE-FWI-1-3997,Wittgensdorfer Straße,5,"Wittgensdorfer Straße, 5, Dresden",50.9894672,13.7976071,546,Bauwerk,1,960,3
+577,PE-FWI-3-5821,Heidestraße,1,"Heidestraße, 1, Dresden",51.08174835,13.7272927666,547,Entlüftung,3,600,1
+578,PE-FWI-4-3211,Keplerstraße,6,"Keplerstraße, 6, Dresden",51.0155155,13.7856426,548,Erdarmatur,4,900,3
+579,PE-FWI-2-1684,Schießgasse / Tzschirnerplatz 5,-,"Schießgasse & Tzschirnerplatz 5, Dresden",51.0513599874,13.74469998,214,Zuluftschacht,2,1140,2
+580,PE-FWI-4-9003,Am Ende,4,"Am Ende, 4, Dresden",51.0340116,13.7910282,549,Erdarmatur,4,780,3
+581,PE-FWI-4-5530,Heinrichstraße,15,"Heinrichstraße, 15, Dresden",51.0592321,13.7421118,550,Erdarmatur,4,600,3
+582,PE-FWI-2-6158,Wittenstraße,8,"Wittenstraße, 8, Dresden",51.0180566,13.7625764,551,Zuluftschacht,2,1140,2
+583,PE-FWI-4-5276,Alemannenstraße,29,"Alemannenstraße, 29, Dresden",51.0485772,13.7888648,552,Erdarmatur,4,600,3
+584,PE-FWI-1-9165,Sebnitzer Straße,4,"Sebnitzer Straße, 4, Dresden",51.0681567,13.7579581,553,Stütze,1,720,3
+585,PE-FWI-2-1807,Katharinenstraße (Hinterhaus),2,"Katharinenstraße (Hinterhaus), 2, Dresden",51.0664941717,13.7470952302,554,Kontrollschacht,2,600,2
+586,PE-FWI-3-1562,Lilienthalstraße,19,"Lilienthalstraße, 19, Dresden",51.00828545,13.823180322,555,Belüftung,3,900,1
+587,PE-FWI-3-5633,Hellendorfer Straße,26,"Hellendorfer Straße, 26, Dresden",51.0252989,13.8073992,556,Abzweigung,3,600,1
+588,PE-FWI-3-3316,Schulze-Delitzsch-Straße,5,"Schulze-Delitzsch-Straße, 5, Dresden",51.0293811,13.818474,557,Abzweigung,3,600,1
+589,PE-FWI-2-6294,Binzer Weg,6,"Binzer Weg, 6, Dresden",51.1239807,13.7903017,558,Zuluftschacht,2,1200,2
+590,PE-FWI-1-3687,Florastraße,7,"Florastraße, 7, Dresden",51.0483196,13.7163975,559,Brücke,1,1380,3
+591,PE-FWI-4-6888,Altseidnitz,14,"Altseidnitz, 14, Dresden",51.0274255,13.803638652,560,Erdarmatur,4,600,3
+592,PE-FWI-2-4058,Wigardstraße,13,"Wigardstraße, 13, Dresden",51.0575392,13.7485477,72,Zuluftschacht,2,1200,2
+593,PE-FWI-2-1119,Lortzingstraße,18,"Lortzingstraße, 18, Dresden",51.0502994,13.7726834,561,KontrollBauwerk,2,840,2
+594,PE-FWI-4-1459,Hechtstraße,104,"Hechtstraße, 104, Dresden",51.0786804,13.7472999,562,Erdarmatur,4,720,3
+595,PE-FWI-4-1640,Eisenacher Straße,11,"Eisenacher Straße, 11, Dresden",51.0481826,13.7972591797,563,Erdarmatur,4,720,3
+596,PE-FWI-4-3987,Theaterplatz,4,"Theaterplatz, 4, Dresden",51.0540742,13.7375764,564,Erdarmatur,4,600,3
+597,PE-FWI-4-9258,Radebeuler Straße,5,"Radebeuler Straße, 5, Dresden",51.0806862,13.6975881,565,Erdarmatur,4,780,3
+598,PE-FWI-4-5274,Kresseweg,5,"Kresseweg, 5, Dresden",51.0509856,13.6633582,566,Erdarmatur,4,780,3
+599,PE-FWI-3-8091,Weißbachstraße,1,"Weißbachstraße, 1, Dresden",51.0270249,13.7296936,567,Abzweigung,3,840,1
+600,PE-FWI-3-7291,Barbarossaplatz,9,"Barbarossaplatz, 9, Dresden",51.0484236,13.7907206065,222,Abzweigung,3,600,1
+601,PE-FWI-4-7812,Maternistraße,14,"Maternistraße, 14, Dresden",51.0472777,13.7250108,568,Erdarmatur,4,720,3
+602,PE-FWI-2-1488,Seilergasse,9,"Seilergasse, 9, Dresden",51.047085,13.7308,569,Kontrollschacht,2,780,2
+603,PE-FWI-2-8183,Kohlenstraße,11,"Kohlenstraße, 11, Dresden",51.0196105,13.7278366,570,Zuluftschacht,2,900,2
+604,PE-FWI-2-5747,Heinz-Bongartz-Straße,1,"Heinz-Bongartz-Straße, 1, Dresden",50.990392,13.7893583,571,Zuluftschacht,2,1080,2
+605,PE-FWI-3-426,Schellerhauer Weg,5,"Schellerhauer Weg, 5, Dresden",51.0356694,13.804867,572,Belüftung,3,900,1
+606,PE-FWI-4-3589,Perronstraße,26,"Perronstraße, 26, Dresden",51.0133059,13.784685,573,Erdarmatur,4,780,3
+607,PE-FWI-1-251,Johann-Meyer-Straße,23,"Johann-Meyer-Straße, 23, Dresden",51.07585885,13.7448354058,574,Brunnen,1,1020,3
+608,PE-FWI-2-9466,Gambrinusstraße,1,"Gambrinusstraße, 1, Dresden",51.05055045,13.7100509846,575,Kontrollschacht,2,660,2
+609,PE-FWI-4-9671,Ottendorfer Straße,8,"Ottendorfer Straße, 8, Dresden",51.0821321,13.7443258,576,Erdarmatur,4,840,3
+610,PE-FWI-1-5853,Galeriestraße,15,"Galeriestraße, 15, Dresden",51.0512611,13.7390669,420,Rohrbrücke,1,1140,3
+611,PE-FWI-4-2002,Leutewitzer Ring,137,"Leutewitzer Ring, 137, Dresden",51.04830665,13.6791892525,577,Erdarmatur,4,720,3
+612,PE-FWI-4-4931,Micktner Straße,4,"Micktner Straße, 4, Dresden",51.081611,13.709316,41,Erdarmatur,4,780,3
+613,PE-FWI-4-5261,Kirschenstraße,5,"Kirschenstraße, 5, Dresden",51.045949,13.6644933,578,Erdarmatur,4,600,3
+614,PE-FWI-4-5280,Devrientstraße,9,"Devrientstraße, 9, Dresden",51.0571989,13.7314775,579,Erdarmatur,4,780,3
+615,PE-FWI-2-3433,Lauensteiner Straße,63,"Lauensteiner Straße, 63, Dresden",51.0366445,13.7989032,580,KontrollBauwerk,2,720,2
+616,PE-FWI-3-7346,Bertolt-Brecht-Allee,11,"Bertolt-Brecht-Allee, 11, Dresden",51.0402953,13.7793688,268,Entlüftung,3,840,1
+617,PE-FWI-4-6927,Geystraße,18,"Geystraße, 18, Dresden",51.0240085,13.7563797,581,Erdarmatur,4,780,3
+618,PE-FWI-1-5642,Winckelmannstraße,2,"Winckelmannstraße, 2, Dresden",51.0390627,13.7309337,17,Stütze,1,840,3
+619,PE-FWI-2-1799,Vorwerkstraße,17,"Vorwerkstraße, 17, Dresden",51.0607234,13.7155129,582,Kontrollschacht,2,600,2
+620,PE-FWI-4-411,Oschatzer Straße,11,"Oschatzer Straße, 11, Dresden",51.0755827,13.7235639,583,Erdarmatur,4,840,3
+621,PE-FWI-3-8736,Forsthausstraße,3,"Forsthausstraße, 3, Dresden",51.0530887,13.7878824,584,Belüftung,3,840,1
+622,PE-FWI-2-9648,Klingerstraße,7,"Klingerstraße, 7, Dresden",51.0722285,13.6942196,585,Zuluftschacht,2,960,2
+623,PE-FWI-4-878,Dachsteinweg,6,"Dachsteinweg, 6, Dresden",51.0183406,13.8381083,586,Erdarmatur,4,660,3
+624,PE-FWI-2-5937,Rähnitzgasse,24,"Rähnitzgasse, 24, Dresden",51.0608291,13.7422355,587,Zuluftschacht,2,1200,2
+625,PE-FWI-3-5486,Sternplatz,1,"Sternplatz, 1, Dresden",51.0471716,13.72606,588,Belüftung,3,660,1
+626,PE-FWI-4-4012,Altleuben,11,"Altleuben, 11, Dresden",51.0109649,13.8263768,589,Erdarmatur,4,840,3
+627,PE-FWI-4-5359,Sophienstraße,2,"Sophienstraße, 2, Dresden",51.053859,13.7382891,10,Erdarmatur,4,720,3
+628,PE-FWI-4-3617,Hohe Straße,7,"Hohe Straße, 7, Dresden",51.0413185,13.7249591,590,Erdarmatur,4,840,3
+629,PE-FWI-3-6173,Moränenende,4,"Moränenende, 4, Dresden",51.0114256,13.8080695,266,Belüftung,3,720,1
+630,PE-FWI-4-4307,Torgauer Straße,20,"Torgauer Straße, 20, Dresden",51.0767132,13.7232100545,591,Erdarmatur,4,720,3
+631,PE-FWI-1-8687,Mohnstraße,22,"Mohnstraße, 22, Dresden",51.07919395,13.7212790757,592,Brücke,1,1260,3
+632,PE-FWI-3-2406,Strehlener Straße,8,"Strehlener Straße, 8, Dresden",51.0368799,13.7383769,593,Abzweigung,3,780,1
+633,PE-FWI-2-2546,Zum Kraftwerk,7,"Zum Kraftwerk, 7, Dresden",51.1306228,13.7777164,594,KontrollBauwerk,2,600,2
+634,PE-FWI-4-3474,Merseburger Straße,7,"Merseburger Straße, 7, Dresden",51.0466929,13.7821551,595,Erdarmatur,4,660,3
+635,PE-FWI-3-9835,Eilenburger Straße,8,"Eilenburger Straße, 8, Dresden",51.0441618,13.7875848,596,Belüftung,3,660,1
+636,PE-FWI-4-8170,Wilsdruffer Str.,1,"Wilsdruffer Str., 1, Dresden",51.0508389,13.7343288,398,Erdarmatur,4,780,3
+637,PE-FWI-4-5995,Lannerstraße,8,"Lannerstraße, 8, Dresden",51.0272774,13.7607827,597,Erdarmatur,4,600,3
+638,PE-FWI-4-6721,Hofmühlenstraße,18,"Hofmühlenstraße, 18, Dresden",51.0348379,13.7051051,598,Erdarmatur,4,840,3
+639,PE-FWI-2-5868,Merseburger Straße,3,"Merseburger Straße, 3, Dresden",51.046834,13.7824594,599,KontrollBauwerk,2,900,2
+640,PE-FWI-2-7395,Omsewitzer Ring,66,"Omsewitzer Ring, 66, Dresden",51.0483245,13.6684495,600,Kontrollschacht,2,900,2
+641,PE-FWI-4-3321,Zwinglistraße,30,"Zwinglistraße, 30, Dresden",51.0337393,13.7833712,601,Erdarmatur,4,840,3
+642,PE-FWI-4-7799,Steinstraße,3,"Steinstraße, 3, Dresden",51.0520725,13.7487951,602,Erdarmatur,4,660,3
+643,PE-FWI-2-6307,Ottendorfer Straße,4,"Ottendorfer Straße, 4, Dresden",51.0821321,13.7443258,576,Kontrollschacht,2,600,2
+644,PE-FWI-3-454,Lassallestraße,8,"Lassallestraße, 8, Dresden",51.0195232,13.8109555,603,Belüftung,3,660,1
+645,PE-FWI-3-4197,Laibacher Straße,7,"Laibacher Straße, 7, Dresden",51.02104005,13.83511805,604,Abzweigung,3,720,1
+646,PE-FWI-3-9001,Leisniger Platz,3,"Leisniger Platz, 3, Dresden",51.08034845,13.7242967418,605,Entlüftung,3,660,1
+647,PE-FWI-2-720,Neustädter Markt,2,"Neustädter Markt, 2, Dresden",51.0590286,13.7401289,606,Zuluftschacht,2,960,2
+648,PE-FWI-1-3801,Güntzstraße,23,"Güntzstraße, 23, Dresden",51.0461369,13.7547819,607,Brücke,1,1440,3
+649,PE-FWI-1-6359,Strehlener Straße,18,"Strehlener Straße, 18, Dresden",51.0377552,13.7370311,379,Stütze,1,840,3
+650,PE-FWI-2-7574,Comeniusplatz,8,"Comeniusplatz, 8, Dresden",51.0416009,13.7666487,608,Zuluftschacht,2,1140,2
+651,PE-FWI-3-1350,Ammonstraße/Freiberger Straße,-,"Ammonstraße & Freiberger Straße, Dresden",51.0487744,13.7199711,609,Belüftung,3,900,1
+652,PE-FWI-3-1022,Kirschenstraße,7,"Kirschenstraße, 7, Dresden",51.045949,13.6644933,578,Entlüftung,3,720,1
+653,PE-FWI-4-3648,Weiße Gasse,8,"Weiße Gasse, 8, Dresden",51.0495673,13.7407026,610,Erdarmatur,4,840,3
+654,PE-FWI-2-1959,Zum Reiterberg,8,"Zum Reiterberg, 8, Dresden",51.0824978,13.751854699999999,611,Zuluftschacht,2,900,2
+655,PE-FWI-3-9478,Caspar-David-Friedrich-Straße,3,"Caspar-David-Friedrich-Straße, 3, Dresden",51.0276195,13.7588203586,612,Entlüftung,3,900,1
+656,PE-FWI-4-4774,Maternistraße,1,"Maternistraße, 1, Dresden",51.0471207,13.7244701,613,Erdarmatur,4,780,3
+657,PE-FWI-1-3135,Barbarossaplatz,8,"Barbarossaplatz, 8, Dresden",51.0484236,13.7907206065,222,Stütze,1,600,3
+658,PE-FWI-4-5302,Wernerstraße,35,"Wernerstraße, 35, Dresden",51.04448655,13.6996407703,614,Erdarmatur,4,600,3
+659,PE-FWI-2-4077,An der Frauenkirche,14,"An der Frauenkirche, 14, Dresden",51.0517869,13.7423409,615,KontrollBauwerk,2,840,2
+660,PE-FWI-4-5155,Martin-Luther-Platz,4,"Martin-Luther-Platz, 4, Dresden",51.0639728,13.7563630045,616,Erdarmatur,4,780,3
+661,PE-FWI-3-7771,Wallgäßchen,5,"Wallgäßchen, 5, Dresden",51.0618431,13.7409526,617,Entlüftung,3,780,1
+662,PE-FWI-2-1171,Klingerstraße,14,"Klingerstraße, 14, Dresden",51.0210151,13.7619794,618,Kontrollschacht,2,900,2
+663,PE-FWI-4-1442,Richard-Rösch-Straße,23,"Richard-Rösch-Straße, 23, Dresden",51.0927852,13.7030369,619,Erdarmatur,4,780,3
+664,PE-FWI-2-2614,Berliner Straße,74,"Berliner Straße, 74, Dresden",51.05696675,13.7110313168,620,Zuluftschacht,2,1020,2
+665,PE-FWI-2-9674,Pirnaische Straße,1,"Pirnaische Straße, 1, Dresden",51.0464944,13.748568,621,Zuluftschacht,2,1140,2
+666,PE-FWI-2-7808,Vetschauer Straße,21,"Vetschauer Straße, 21, Dresden",51.0101914,13.7949826,622,KontrollBauwerk,2,780,2
+667,PE-FWI-4-4395,Rottwerndorfer Straße,19,"Rottwerndorfer Straße, 19, Dresden",51.0133461,13.8205978,623,Erdarmatur,4,900,3
+668,PE-FWI-3-5116,Hagebuttenweg,13,"Hagebuttenweg, 13, Dresden",51.0501192,13.6560571033,624,Abzweigung,3,720,1
+669,PE-FWI-3-2124,Hohnsteiner Straße,2,"Hohnsteiner Straße, 2, Dresden",51.0671859,13.7606660488,625,Abzweigung,3,660,1
+670,PE-FWI-1-102,Stephensonstraße,1,"Stephensonstraße, 1, Dresden",51.0043595,13.8258284,626,Stütze,1,660,3
+671,PE-FWI-2-7283,Altseidnitz,5,"Altseidnitz, 5, Dresden",51.0275789,13.8024499,627,Kontrollschacht,2,720,2
+672,PE-FWI-2-7231,Alter Postweg,2,"Alter Postweg, 2, Dresden",50.9932218,13.788522799999999,628,KontrollBauwerk,2,900,2
+673,PE-FWI-3-5687,Fritz-Hoffmann-Straße,7,"Fritz-Hoffmann-Straße, 7, Dresden",51.0690707,13.7399577,629,Belüftung,3,720,1
+674,PE-FWI-4-3902,Winterbergstraße,140,"Winterbergstraße, 140, Dresden",51.0317736,13.7778182,630,Erdarmatur,4,840,3
+675,PE-FWI-4-7048,Am Anfang,5,"Am Anfang, 5, Dresden",51.0362409,13.792757,631,Erdarmatur,4,840,3
+676,PE-FWI-2-5489,Gabelsbergerstraße,6,"Gabelsbergerstraße, 6, Dresden",51.0498352,13.7740102,66,Zuluftschacht,2,960,2
+677,PE-FWI-4-9761,Straße des 17. Juni,9,"Straße des 17. Juni, 9, Dresden",51.0066472,13.8193558,632,Erdarmatur,4,780,3
+678,PE-FWI-4-9622,Teutoburgstraße,5,"Teutoburgstraße, 5, Dresden",51.0522328,13.7859869,633,Erdarmatur,4,900,3
+679,PE-FWI-4-3,Hirschbacher Weg,4,"Hirschbacher Weg, 4, Dresden",51.0303782,13.7941371,634,Erdarmatur,4,660,3
+680,PE-FWI-4-1920,Jordanstraße,22,"Jordanstraße, 22, Dresden",51.0681019,13.7513379,635,Erdarmatur,4,780,3
+681,PE-FWI-1-1522,Permoserstraße,8,"Permoserstraße, 8, Dresden",51.0500348,13.7624581,636,Brücke,1,1620,3
+682,PE-FWI-2-3597,Gröbelstraße,10,"Gröbelstraße, 10, Dresden",51.0442692,13.7019848,637,KontrollBauwerk,2,840,2
+683,PE-FWI-1-2448,Mathildenstraße,24,"Mathildenstraße, 24, Dresden",51.0494975,13.7533116,638,Rohrbrücke,1,1380,3
+684,PE-FWI-4-6891,Georg-Palitzsch-Straße,110,"Georg-Palitzsch-Straße, 110, Dresden",51.0020715,13.7979294,639,Erdarmatur,4,600,3
+685,PE-FWI-2-4578,Arkonastraße,1,"Arkonastraße, 1, Dresden",51.12219215,13.7902370163,640,Kontrollschacht,2,720,2
+686,PE-FWI-4-8852,Ludwig-Renn-Allee,19,"Ludwig-Renn-Allee, 19, Dresden",51.0205412,13.7356032,641,Erdarmatur,4,840,3
+687,PE-FWI-4-4991,Fetscherstraße,14,"Fetscherstraße, 14, Dresden",51.0441499,13.7695948,642,Erdarmatur,4,780,3
+688,PE-FWI-2-8431,Herbert-Collum-Straße,40,"Herbert-Collum-Straße, 40, Dresden",50.9889421,13.7959927,643,KontrollBauwerk,2,900,2
+689,PE-FWI-3-1393,Berthelsdorfer Weg,7,"Berthelsdorfer Weg, 7, Dresden",51.0311945,13.8117306,644,Belüftung,3,600,1
+690,PE-FWI-1-6083,Sternstraße,22,"Sternstraße, 22, Dresden",51.0794074,13.7132027,361,Armatur,1,780,3
+691,PE-FWI-2-9014,Andreas-Schubert-Straße,4,"Andreas-Schubert-Straße, 4, Dresden",51.0391757,13.738507,645,Zuluftschacht,2,900,2
+692,PE-FWI-4-8203,Devrientstraße,2,"Devrientstraße, 2, Dresden",51.0571989,13.7314775,579,Erdarmatur,4,600,3
+693,PE-FWI-4-7753,Arkonastraße,5,"Arkonastraße, 5, Dresden",51.1222525,13.7911266,646,Erdarmatur,4,600,3
+694,PE-FWI-4-3297,Georg-Wrba-Straße,70,"Georg-Wrba-Straße, 70, Dresden",51.0329712,13.7462304,273,Erdarmatur,4,900,3
+695,PE-FWI-2-476,Neundorfer Straße,64,"Neundorfer Straße, 64, Dresden",51.0123403,13.8177793,370,KontrollBauwerk,2,840,2
+696,PE-FWI-4-1123,Berzdorfer Straße,10,"Berzdorfer Straße, 10, Dresden",51.0073547,13.7995837,647,Erdarmatur,4,900,3
+697,PE-FWI-3-4809,Franz-Mehring-Straße,41,"Franz-Mehring-Straße, 41, Dresden",51.0165042,13.8138695,648,Abzweigung,3,660,1
+698,PE-FWI-4-5076,Siemensstraße,1,"Siemensstraße, 1, Dresden",51.0025227,13.8273059,649,Erdarmatur,4,780,3
+699,PE-FWI-4-3530,Gerichtsstraße,9,"Gerichtsstraße, 9, Dresden",51.0516395,13.7519623,650,Erdarmatur,4,840,3
+700,PE-FWI-4-9102,Zinnwalder Straße,12,"Zinnwalder Straße, 12, Dresden",51.0371766,13.8017519,651,Erdarmatur,4,840,3
+701,PE-FWI-4-9238,Anton-Weck-Straße,5,"Anton-Weck-Straße, 5, Dresden",51.04086435,13.7027364905,652,Erdarmatur,4,840,3
+702,PE-FWI-2-9916,Tetschener Straße,22,"Tetschener Straße, 22, Dresden",51.034032,13.779663,653,Kontrollschacht,2,840,2
+703,PE-FWI-3-2408,Rietschelstraße,25,"Rietschelstraße, 25, Dresden",51.0535612,13.7518794,654,Abzweigung,3,900,1
+704,PE-FWI-3-8760,Niedersedlitzer Straße,6,"Niedersedlitzer Straße, 6, Dresden",51.0116235,13.798922,655,Entlüftung,3,840,1
+705,PE-FWI-1-1970,Hauptmannstraße,8,"Hauptmannstraße, 8, Dresden",51.0796986,13.7055648,656,Brücke,1,1800,3
+706,PE-FWI-3-7144,Am Dahlienheim,7,"Am Dahlienheim, 7, Dresden",51.0096296,13.8230218,534,Abzweigung,3,780,1
+707,PE-FWI-3-3341,Töpferstraße,1,"Töpferstraße, 1, Dresden",51.0524443,13.7403816,657,Belüftung,3,840,1
+708,PE-FWI-2-514,Strehlener Straße,14,"Strehlener Straße, 14, Dresden",51.0362954,13.7408763,658,Zuluftschacht,2,1080,2
+709,PE-FWI-2-8261,Kraftwerk Mitte,2,"Kraftwerk Mitte, 2, Dresden",51.05318555,13.723092877700001,659,Zuluftschacht,2,1020,2
+710,PE-FWI-2-6598,Kleinzschachwitzer Straße,11,"Kleinzschachwitzer Straße, 11, Dresden",51.0077511,13.8406224,660,Zuluftschacht,2,1020,2
+711,PE-FWI-4-2184,Friedensstraße,3,"Friedensstraße, 3, Dresden",51.0686687,13.7414442,661,Erdarmatur,4,780,3
+712,PE-FWI-4-2563,Sidonienstraße,4,"Sidonienstraße, 4, Dresden",51.0416836,13.7360091,662,Erdarmatur,4,600,3
+713,PE-FWI-4-629,Halleystraße,11,"Halleystraße, 11, Dresden",51.0926687,13.7086069,663,Erdarmatur,4,660,3
+714,PE-FWI-4-9106,Seilergasse,11,"Seilergasse, 11, Dresden",51.0470159,13.7305762,664,Erdarmatur,4,600,3
+715,PE-FWI-3-3753,Mühlsdorfer Weg,4,"Mühlsdorfer Weg, 4, Dresden",51.0114003,13.8209701,199,Abzweigung,3,600,1
+716,PE-FWI-1-3752,Reißigerstraße,7,"Reißigerstraße, 7, Dresden",51.0439963,13.7663775,665,Brunnen,1,900,3
+717,PE-FWI-2-2247,Manfred-von-Ardenne-Ring,3,"Manfred-von-Ardenne-Ring, 3, Dresden",51.0976053,13.7711801,666,Kontrollschacht,2,840,2
+718,PE-FWI-4-9685,Helbigsdorfer Weg,2,"Helbigsdorfer Weg, 2, Dresden",51.0459822,13.6725545,667,Erdarmatur,4,900,3
+719,PE-FWI-2-5047,Laibacher Straße,15,"Laibacher Straße, 15, Dresden",51.02004135,13.8373597122,668,KontrollBauwerk,2,900,2
+720,PE-FWI-3-2257,An der Herzogin Garten,6,"An der Herzogin Garten, 6, Dresden",51.0549608,13.7299017,98,Abzweigung,3,720,1
+721,PE-FWI-4-7930,Langer Weg,5,"Langer Weg, 5, Dresden",50.999201,13.8004068,669,Erdarmatur,4,600,3
+722,PE-FWI-2-1534,Robinienstraße,33,"Robinienstraße, 33, Dresden",51.0434304,13.6665272,670,KontrollBauwerk,2,720,2
+723,PE-FWI-4-4954,Am Steingarten,4,"Am Steingarten, 4, Dresden",51.0061819,13.8144741,246,Erdarmatur,4,780,3
+724,PE-FWI-2-7682,Johnsbacher Weg,3,"Johnsbacher Weg, 3, Dresden",51.0300031,13.81024,311,Zuluftschacht,2,960,2
+725,PE-FWI-1-7961,Amalie-Dietrich-Platz,1,"Amalie-Dietrich-Platz, 1, Dresden",51.0447641,13.6793257843,671,Rohrbrücke,1,1320,3
+726,PE-FWI-4-5749,Paulstraße,2,"Paulstraße, 2, Dresden",51.0719975,13.7517281,672,Erdarmatur,4,900,3
+727,PE-FWI-2-7926,Sternstraße,2,"Sternstraße, 2, Dresden",51.0794237,13.7119349,673,Zuluftschacht,2,1080,2
+728,PE-FWI-4-3054,Rähnitzgasse,9,"Rähnitzgasse, 9, Dresden",51.0593949,13.7407223,674,Erdarmatur,4,780,3
+729,PE-FWI-1-4168,Papiermühlengasse,8,"Papiermühlengasse, 8, Dresden",51.0475499,13.718822202,675,Brunnen,1,1140,3
+730,PE-FWI-2-8006,Parkstraße,1,"Parkstraße, 1, Dresden",51.039256,13.7448019,676,KontrollBauwerk,2,660,2
+731,PE-FWI-1-8426,Große Meißner Straße,11,"Große Meißner Straße, 11, Dresden",51.0592989,13.7390533,287,Rohrbrücke,1,1080,3
+732,PE-FWI-2-7856,Lortzingstraße,10,"Lortzingstraße, 10, Dresden",51.0493742,13.7723042,677,KontrollBauwerk,2,660,2
+733,PE-FWI-2-5373,Böhmische Straße,39,"Böhmische Straße, 39, Dresden",51.06452465,13.7549535962,678,KontrollBauwerk,2,660,2
+734,PE-FWI-4-1942,Lauensteiner Straße,3,"Lauensteiner Straße, 3, Dresden",51.0434867,13.8066336663,679,Erdarmatur,4,780,3
+735,PE-FWI-4-2043,An der Dreikönigskirche,5,"An der Dreikönigskirche, 5, Dresden",51.0608764,13.7426257,680,Erdarmatur,4,660,3
+736,PE-FWI-2-9974,Heideblick,3,"Heideblick, 3, Dresden",51.0702982,13.7870997,681,Zuluftschacht,2,1080,2
+737,PE-FWI-3-7659,Zeunerstraße,12,"Zeunerstraße, 12, Dresden",51.027378,13.7350892,682,Entlüftung,3,780,1
+738,PE-FWI-3-1310,Paradiesstraße,37,"Paradiesstraße, 37, Dresden",51.0283131,13.7456733,683,Belüftung,3,840,1
+739,PE-FWI-2-6929,Schönfelder Straße,17,"Schönfelder Straße, 17, Dresden",51.06651645,13.759435997,684,Zuluftschacht,2,900,2
+740,PE-FWI-2-4410,Parkstraße,9,"Parkstraße, 9, Dresden",51.039256,13.7448019,676,KontrollBauwerk,2,780,2
+741,PE-FWI-3-3684,Merianplatz,1,"Merianplatz, 1, Dresden",51.0455399,13.6707309,378,Belüftung,3,720,1
+742,PE-FWI-2-630,Altseidnitz,12,"Altseidnitz, 12, Dresden",51.02733735,13.8032420972,685,KontrollBauwerk,2,900,2
+743,PE-FWI-2-7365,Kamillenweg,8,"Kamillenweg, 8, Dresden",51.0469921,13.6569853,686,KontrollBauwerk,2,600,2
+744,PE-FWI-2-2252,Blumenstraße,8,"Blumenstraße, 8, Dresden",51.0585252,13.7683054,687,Kontrollschacht,2,600,2
+745,PE-FWI-2-7179,Galeriestraße,17,"Galeriestraße, 17, Dresden",51.0512611,13.7390669,420,Kontrollschacht,2,600,2
+746,PE-FWI-4-123,Knappestraße,16,"Knappestraße, 16, Dresden",51.0279965,13.815077,688,Erdarmatur,4,840,3
+747,PE-FWI-3-8015,Nossener Brücke,8,"Nossener Brücke, 8, Dresden",51.0371395,13.7147941,689,Entlüftung,3,780,1
+748,PE-FWI-2-575,Feldgasse,2,"Feldgasse, 2, Dresden",51.0431982,13.7304265,690,Kontrollschacht,2,840,2
+749,PE-FWI-2-2909,Budapester Straße,12,"Budapester Straße, 12, Dresden",51.0464574,13.7332932,691,Kontrollschacht,2,780,2
+750,PE-FWI-2-466,Rosa-Steinhart-Straße,9,"Rosa-Steinhart-Straße, 9, Dresden",51.0749358,13.7255637,692,KontrollBauwerk,2,840,2
+751,PE-FWI-4-5284,Ritterstraße,15,"Ritterstraße, 15, Dresden",51.0601401,13.7444469,215,Erdarmatur,4,840,3
+752,PE-FWI-4-6791,Elsterwerdaer Straße,10,"Elsterwerdaer Straße, 10, Dresden",51.0036748,13.799187,693,Erdarmatur,4,900,3
+753,PE-FWI-4-4043,Liebigstraße,7,"Liebigstraße, 7, Dresden",51.0363286,13.7262958543,694,Erdarmatur,4,720,3
+754,PE-FWI-4-9571,Goldammerweg,7,"Goldammerweg, 7, Dresden",51.0118318,13.7918814,159,Erdarmatur,4,840,3
+755,PE-FWI-2-5693,Weesensteiner Straße,21,"Weesensteiner Straße, 21, Dresden",51.0347575,13.811865,695,KontrollBauwerk,2,900,2
+756,PE-FWI-2-9322,Provianthofstraße,7,"Provianthofstraße, 7, Dresden",51.08204635,13.7585416188,696,Zuluftschacht,2,960,2
+757,PE-FWI-2-5425,Zellescher Weg/Heinrich-Greif-Straße,-,"Zellescher Weg & Heinrich-Greif-Straße, Dresden",51.0287099895,13.743019995200001,697,Kontrollschacht,2,720,2
+758,PE-FWI-3-5999,Wartburgstraße,7,"Wartburgstraße, 7, Dresden",51.0506102,13.7806807,698,Belüftung,3,840,1
+759,PE-FWI-3-8149,Wundtstraße,3,"Wundtstraße, 3, Dresden",51.02924725,13.7495072387,699,Belüftung,3,600,1
+760,PE-FWI-3-5746,Würzburger Straße,72,"Würzburger Straße, 72, Dresden",51.0279345,13.7187989,700,Entlüftung,3,660,1
+761,PE-FWI-2-6914,An der Dreikönigskirche,7,"An der Dreikönigskirche, 7, Dresden",51.0609338,13.7424897,701,KontrollBauwerk,2,660,2
+762,PE-FWI-3-9601,Franz-Liszt-Straße,2,"Franz-Liszt-Straße, 2, Dresden",51.0337145,13.7579678,702,Entlüftung,3,900,1
+763,PE-FWI-4-2913,Gerokstraße,30,"Gerokstraße, 30, Dresden",51.0526037,13.767039,703,Erdarmatur,4,660,3
+764,PE-FWI-4-7020,Aachener Straße,7,"Aachener Straße, 7, Dresden",51.0900804,13.7110907,704,Erdarmatur,4,720,3
+765,PE-FWI-2-2020,Tornaer Straße,11,"Tornaer Straße, 11, Dresden",51.0118863,13.7887506,705,Zuluftschacht,2,1140,2
+766,PE-FWI-2-9491,Rugestraße,8,"Rugestraße, 8, Dresden",51.0329142,13.7259122,706,Zuluftschacht,2,1140,2
+767,PE-FWI-4-4923,Schanzenstraße,13,"Schanzenstraße, 13, Dresden",51.0765807,13.7496667,707,Erdarmatur,4,600,3
+768,PE-FWI-3-3599,Schulgutstraße,3,"Schulgutstraße, 3, Dresden",51.0545885,13.7538214,407,Abzweigung,3,900,1
+769,PE-FWI-2-4013,Schwindstraße,7,"Schwindstraße, 7, Dresden",51.0712883,13.6958796,708,KontrollBauwerk,2,600,2
+770,PE-FWI-2-7994,Permoserstraße,7,"Permoserstraße, 7, Dresden",51.0493587,13.7634034,709,KontrollBauwerk,2,660,2
+771,PE-FWI-2-19,Bernhard-Kretzschmar-Straße,8,"Bernhard-Kretzschmar-Straße, 8, Dresden",51.0199907,13.7834954,710,Kontrollschacht,2,600,2
+772,PE-FWI-3-4187,Albertstraße,4,"Albertstraße, 4, Dresden",51.057221,13.7466226,711,Abzweigung,3,720,1
+773,PE-FWI-4-6128,Hähnelstraße,6,"Hähnelstraße, 6, Dresden",51.0446428,13.7639871,712,Erdarmatur,4,840,3
+774,PE-FWI-4-169,Borthener Straße,2,"Borthener Straße, 2, Dresden",51.0240003,13.7955483,713,Erdarmatur,4,660,3
+775,PE-FWI-2-3014,Sternplatz,2,"Sternplatz, 2, Dresden",51.04666965,13.7262092654,14,Kontrollschacht,2,600,2
+776,PE-FWI-3-2405,Wölfnitzer Ring,99,"Wölfnitzer Ring, 99, Dresden",51.0426931,13.6749794,714,Entlüftung,3,900,1
+777,PE-FWI-3-4860,Limbacher Weg,2,"Limbacher Weg, 2, Dresden",51.0416571,13.673983400000001,715,Abzweigung,3,720,1
+778,PE-FWI-2-8282,Sachsenwerkstraße,13,"Sachsenwerkstraße, 13, Dresden",51.0053456,13.8238955,716,Zuluftschacht,2,1020,2
+779,PE-FWI-3-7077,Lessingstraße,2,"Lessingstraße, 2, Dresden",51.0622843,13.7556923,717,Entlüftung,3,600,1
+780,PE-FWI-2-130,Biedermannstraße,3,"Biedermannstraße, 3, Dresden",51.0351939,13.7075886,116,KontrollBauwerk,2,840,2
+781,PE-FWI-4-2049,Kleestraße,7,"Kleestraße, 7, Dresden",51.0921869,13.7024966,300,Erdarmatur,4,600,3
+782,PE-FWI-4-2236,Schellerhauer Weg,4,"Schellerhauer Weg, 4, Dresden",51.0353589,13.8048968,718,Erdarmatur,4,660,3
+783,PE-FWI-3-4952,Vitzthumstraße,1,"Vitzthumstraße, 1, Dresden",51.0457303,13.731651513,719,Entlüftung,3,600,1
+784,PE-FWI-2-2498,Franz-Liszt-Straße,5,"Franz-Liszt-Straße, 5, Dresden",51.03323325,13.7586916331,720,KontrollBauwerk,2,720,2
+785,PE-FWI-3-3731,Schilfweg,57,"Schilfweg, 57, Dresden",51.0233118,13.8014423,16,Belüftung,3,600,1
+786,PE-FWI-4-7793,Kaitzer Straße,56,"Kaitzer Straße, 56, Dresden",51.0394242,13.724299,721,Erdarmatur,4,840,3
+787,PE-FWI-2-1431,Schilfweg,10,"Schilfweg, 10, Dresden",51.0254664,13.803109599999999,722,Kontrollschacht,2,900,2
+788,PE-FWI-1-6643,Julius-Otto-Straße,4,"Julius-Otto-Straße, 4, Dresden",51.0308055,13.75856745,723,Brücke,1,1200,3
+789,PE-FWI-2-6735,Canalettostraße,1,"Canalettostraße, 1, Dresden",51.0466241,13.7613127,724,KontrollBauwerk,2,840,2
+790,PE-FWI-3-6224,Theaterstraße,2,"Theaterstraße, 2, Dresden",51.052054,13.7322002,725,Entlüftung,3,840,1
+791,PE-FWI-4-3805,Radebeuler Straße,2,"Radebeuler Straße, 2, Dresden",51.0806862,13.6975881,565,Erdarmatur,4,900,3
+792,PE-FWI-2-5996,Marienberger Straße,25,"Marienberger Straße, 25, Dresden",51.0258672,13.8055823,726,Kontrollschacht,2,720,2
+793,PE-FWI-3-4204,Altonaer Straße,1,"Altonaer Straße, 1, Dresden",51.0495393,13.7075854,727,Entlüftung,3,840,1
+794,PE-FWI-4-4821,Rennplatzstraße,15,"Rennplatzstraße, 15, Dresden",51.0259735,13.7997602,728,Erdarmatur,4,840,3
+795,PE-FWI-2-6652,Theodor-Fontane-Straße,4,"Theodor-Fontane-Straße, 4, Dresden",51.1210148,13.7896605435,729,KontrollBauwerk,2,840,2
+796,PE-FWI-4-6753,Martin-Luther-Straße,6,"Martin-Luther-Straße, 6, Dresden",51.0636207,13.7556345,730,Erdarmatur,4,840,3
+797,PE-FWI-2-4986,Schlottwitzer Straße,8,"Schlottwitzer Straße, 8, Dresden",51.0346094,13.8092499,731,Zuluftschacht,2,960,2
+798,PE-FWI-4-3421,Forsythienstraße,14,"Forsythienstraße, 14, Dresden",51.0451414,13.6573727,732,Erdarmatur,4,660,3
+799,PE-FWI-4-3709,Gottleubaer Straße,2,"Gottleubaer Straße, 2, Dresden",51.038853,13.7989551,733,Erdarmatur,4,720,3
+800,PE-FWI-3-9475,Karl-Laux-Straße,7,"Karl-Laux-Straße, 7, Dresden",51.0119098,13.7734906,734,Abzweigung,3,600,1
+801,PE-FWI-4-9930,Am Steinacker,4,"Am Steinacker, 4, Dresden",51.1182152,13.7621012,735,Erdarmatur,4,840,3
+802,PE-FWI-4-4451,Steirische Straße,8,"Steirische Straße, 8, Dresden",51.0261713,13.8255312,736,Erdarmatur,4,900,3
+803,PE-FWI-4-6688,Freiberger Platz,6,"Freiberger Platz, 6, Dresden",51.0500434,13.7253758,127,Erdarmatur,4,600,3
+804,PE-FWI-3-862,Eppendorfer Weg,3,"Eppendorfer Weg, 3, Dresden",51.0169562,13.7254079,737,Abzweigung,3,900,1
+805,PE-FWI-2-1086,Prießnitzstraße,10,"Prießnitzstraße, 10, Dresden",51.0644382,13.7603763,738,Zuluftschacht,2,900,2
+806,PE-FWI-3-9758,Selliner Straße,57,"Selliner Straße, 57, Dresden",51.1214234,13.7800157,739,Belüftung,3,720,1
+807,PE-FWI-2-2661,Wigardstraße,9,"Wigardstraße, 9, Dresden",51.0575392,13.7485477,72,KontrollBauwerk,2,840,2
+808,PE-FWI-2-4751,Jordanstraße,3,"Jordanstraße, 3, Dresden",51.0688174,13.7492207,740,KontrollBauwerk,2,840,2
+809,PE-FWI-3-7355,Kresseweg,6,"Kresseweg, 6, Dresden",51.0506852,13.6631974,741,Belüftung,3,780,1
+810,PE-FWI-4-9137,Caspar-David-Friedrich-Straße,23,"Caspar-David-Friedrich-Straße, 23, Dresden",51.0238218,13.7528107,742,Erdarmatur,4,900,3
+811,PE-FWI-2-5394,Teplitzer Straße,9,"Teplitzer Straße, 9, Dresden",51.0262058,13.7557591,280,KontrollBauwerk,2,600,2
+812,PE-FWI-1-3489,Terrassenufer,20,"Terrassenufer, 20, Dresden",51.0544457,13.7527226,743,Brücke,1,1200,3
+813,PE-FWI-4-8646,Dopplerstraße,1,"Dopplerstraße, 1, Dresden",51.0919146,13.7080239,744,Erdarmatur,4,660,3
+814,PE-FWI-4-5836,Hausdorfer Straße,3,"Hausdorfer Straße, 3, Dresden",51.0323133,13.8097987,745,Erdarmatur,4,780,3
+815,PE-FWI-4-3578,Leubnitzer Str.,2,"Leubnitzer Str., 2, Dresden",51.0391999,13.7201627,746,Erdarmatur,4,660,3
+816,PE-FWI-2-2680,Waldschlößchenstraße,17,"Waldschlößchenstraße, 17, Dresden",51.0675509,13.7764159,747,Kontrollschacht,2,660,2
+817,PE-FWI-4-4862,Weintraubenstraße,3,"Weintraubenstraße, 3, Dresden",51.06045235,13.7546714547,748,Erdarmatur,4,660,3
+818,PE-FWI-4-5598,Altenberger Platz,3,"Altenberger Platz, 3, Dresden",51.035865,13.8079732,749,Erdarmatur,4,900,3
+819,PE-FWI-2-6690,Zellescher Weg/Paradiesstraße,-,"Zellescher Weg & Paradiesstraße, Dresden",51.0282198,13.7457716,750,KontrollBauwerk,2,900,2
+820,PE-FWI-2-3411,Altdobritz,13,"Altdobritz, 13, Dresden",51.0189315,13.809969171,751,Zuluftschacht,2,1020,2
+821,PE-FWI-4-8196,Budapester Straße,14,"Budapester Straße, 14, Dresden",51.0464574,13.7332932,691,Erdarmatur,4,720,3
+822,PE-FWI-4-6177,Kesselsdorfer Straße,98,"Kesselsdorfer Straße, 98, Dresden",51.0425813,13.6903626,752,Erdarmatur,4,660,3
+823,PE-FWI-2-4115,An der Kreuzkirche,9,"An der Kreuzkirche, 9, Dresden",51.0488174,13.7386713,753,Kontrollschacht,2,780,2
+824,PE-FWI-4-917,Radeberger Straße,123,"Radeberger Straße, 123, Dresden",51.0713878,13.7862871,754,Erdarmatur,4,600,3
+825,PE-FWI-2-5921,Nassauer Weg,9,"Nassauer Weg, 9, Dresden",51.0228995,13.7387534,755,KontrollBauwerk,2,900,2
+826,PE-FWI-1-9660,Kretschmerstraße,25,"Kretschmerstraße, 25, Dresden",51.0486463,13.8051400305,756,Rohrbrücke,1,1140,3
+827,PE-FWI-4-3278,Schänkenweg,12,"Schänkenweg, 12, Dresden",51.1163818,13.7742858,757,Erdarmatur,4,900,3
+828,PE-FWI-4-3837,Limbacher Weg,9,"Limbacher Weg, 9, Dresden",51.0422584,13.6720512,758,Erdarmatur,4,900,3
+829,PE-FWI-2-1328,St.Petersburger Straße / Grunaer Straße,-,"St.Petersburger Straße & Grunaer Straße, Dresden",51.0490000206,13.7453800038,759,Zuluftschacht,2,1020,2
+830,PE-FWI-4-5334,St.Petersburger Straße,25,"St.Petersburger Straße, 25, Dresden",51.04383245,13.7390029338,760,Erdarmatur,4,600,3
+831,PE-FWI-4-5005,Alemannenstraße,11,"Alemannenstraße, 11, Dresden",51.0517973,13.790115,761,Erdarmatur,4,600,3
+832,PE-FWI-4-6330,Teutoburgstraße,8,"Teutoburgstraße, 8, Dresden",51.0520474,13.7860256,762,Erdarmatur,4,840,3
+833,PE-FWI-4-9942,Cottaer Straße,15,"Cottaer Straße, 15, Dresden",51.0508913,13.7098282,763,Erdarmatur,4,840,3
+834,PE-FWI-2-6355,Raimundstraße,8,"Raimundstraße, 8, Dresden",51.0577236,13.6878947,764,KontrollBauwerk,2,900,2
+835,PE-FWI-3-4148,Lothringer Straße,2,"Lothringer Straße, 2, Dresden",51.055353,13.7551695,765,Entlüftung,3,660,1
+836,PE-FWI-2-9002,Friesengasse,5,"Friesengasse, 5, Dresden",51.0501929,13.7419812,766,Kontrollschacht,2,720,2
+837,PE-FWI-1-3099,Lise-Meitner-Straße,13,"Lise-Meitner-Straße, 13, Dresden",51.0531943,13.6662148,27,Stütze,1,720,3
+838,PE-FWI-2-3120,Zöllnerstraße,5,"Zöllnerstraße, 5, Dresden",51.0517816,13.7679629,767,KontrollBauwerk,2,900,2
+839,PE-FWI-4-8855,Gröbelstraße,18,"Gröbelstraße, 18, Dresden",51.04311075,13.7020064502,768,Erdarmatur,4,780,3
+840,PE-FWI-3-3627,St.Petersburger Straße,32,"St.Petersburger Straße, 32, Dresden",51.0426923,13.7359162,769,Entlüftung,3,660,1
+841,PE-FWI-1-7315,Kamillenweg,13,"Kamillenweg, 13, Dresden",51.0469921,13.6569853,686,Stütze,1,900,3
+842,PE-FWI-3-2095,Postelwitzer Straße,3,"Postelwitzer Straße, 3, Dresden",51.034598,13.7861974,269,Entlüftung,3,660,1
+843,PE-FWI-1-1683,Ludwig-Hartmann-Straße,40,"Ludwig-Hartmann-Straße, 40, Dresden",51.03739515,13.8075597014,770,Armatur,1,660,3
+844,PE-FWI-4-3304,Ulberndorfer Weg,8,"Ulberndorfer Weg, 8, Dresden",51.0309756,13.7908851,771,Erdarmatur,4,660,3
+845,PE-FWI-4-2309,Wilhelm-Lachnit-Straße,1,"Wilhelm-Lachnit-Straße, 1, Dresden",51.0167087,13.7792411,772,Erdarmatur,4,900,3
+846,PE-FWI-1-6626,Stauffenbergallee 9 g / St. Martinskirche,-,"Stauffenbergallee 9 g & St. Martinskirche, Dresden",51.074793316,13.7595619325,773,Armatur,1,720,3
+847,PE-FWI-4-3501,Weintraubenstraße,16,"Weintraubenstraße, 16, Dresden",51.0623763,13.7541801,774,Erdarmatur,4,720,3
+848,PE-FWI-4-9874,Michelangelostraße,1,"Michelangelostraße, 1, Dresden",51.0229722,13.7447149,775,Erdarmatur,4,660,3
+849,PE-FWI-2-1803,Steirische Straße,9,"Steirische Straße, 9, Dresden",51.0238362,13.8298389,776,Kontrollschacht,2,780,2
+850,PE-FWI-2-3045,Pestalozzistraße,9,"Pestalozzistraße, 9, Dresden",51.0511485,13.756469899999999,777,KontrollBauwerk,2,600,2
+851,PE-FWI-4-8071,Sidonienstraße,10,"Sidonienstraße, 10, Dresden",51.0416836,13.7360091,662,Erdarmatur,4,900,3
+852,PE-FWI-3-7274,Franz-Mehring-Straße,27,"Franz-Mehring-Straße, 27, Dresden",51.0164216,13.8135756,778,Abzweigung,3,600,1
+853,PE-FWI-1-6710,Reicker Straße,7,"Reicker Straße, 7, Dresden",51.02689685,13.7666824564,779,Bauwerk,1,1320,3
+854,PE-FWI-4-6012,Maria-Reiche-Straße,9,"Maria-Reiche-Straße, 9, Dresden",51.1261048,13.7850032,780,Erdarmatur,4,780,3
+855,PE-FWI-3-2973,Geisingstraße,23,"Geisingstraße, 23, Dresden",51.0396652,13.7815831,781,Entlüftung,3,900,1
+856,PE-FWI-4-7443,Oskarstraße,10,"Oskarstraße, 10, Dresden",51.0296719,13.7604489,782,Erdarmatur,4,660,3
+857,PE-FWI-4-4339,Hassestraße,5,"Hassestraße, 5, Dresden",51.051764,13.7792149,783,Erdarmatur,4,720,3
+858,PE-FWI-2-751,Theaterstraße,7,"Theaterstraße, 7, Dresden",51.0517694,13.7319011,784,Zuluftschacht,2,900,2
+859,PE-FWI-4-2200,Karcherallee,4,"Karcherallee, 4, Dresden",51.0283916,13.7697117,785,Erdarmatur,4,840,3
+860,PE-FWI-2-7606,Tharandter Straße,14,"Tharandter Straße, 14, Dresden",51.0310946,13.7017163,786,KontrollBauwerk,2,840,2
+861,PE-FWI-3-8918,Bismarckstraße,12,"Bismarckstraße, 12, Dresden",51.0000465,13.826740000000001,787,Entlüftung,3,780,1
+862,PE-FWI-3-6699,Wiesenstraße,2,"Wiesenstraße, 2, Dresden",51.0603127,13.8797088,788,Entlüftung,3,660,1
+863,PE-FWI-1-7220,Braunsdorfer Straße,13,"Braunsdorfer Straße, 13, Dresden",51.047082,13.694096556,789,Armatur,1,600,3
+864,PE-FWI-2-5895,Lößnitzstraße,11,"Lößnitzstraße, 11, Dresden",51.0682743,13.7413617,790,Kontrollschacht,2,660,2
+865,PE-FWI-4-8066,Reißigerstraße,9,"Reißigerstraße, 9, Dresden",51.0442954,13.7667916,791,Erdarmatur,4,600,3
+866,PE-FWI-4-4336,Parkstraße,8,"Parkstraße, 8, Dresden",51.039256,13.7448019,676,Erdarmatur,4,780,3
+867,PE-FWI-3-3745,Gerokstraße,34,"Gerokstraße, 34, Dresden",51.0525203,13.7676905,792,Abzweigung,3,780,1
+868,PE-FWI-2-6894,Hohnsteiner Straße,8,"Hohnsteiner Straße, 8, Dresden",51.06589205,13.762037051,793,KontrollBauwerk,2,840,2
+869,PE-FWI-4-9605,Ammonstraße,6,"Ammonstraße, 6, Dresden",51.0423065,13.7306003,449,Erdarmatur,4,660,3
+870,PE-FWI-2-3008,Pöppelmannstraße,14,"Pöppelmannstraße, 14, Dresden",51.0492774,13.764058200000001,794,KontrollBauwerk,2,900,2
+871,PE-FWI-2-387,Alfred-Althus-Straße,10,"Alfred-Althus-Straße, 10, Dresden",51.0519559,13.7242599,795,Kontrollschacht,2,840,2
+872,PE-FWI-2-7294,Bahnhofstraße,63,"Bahnhofstraße, 63, Dresden",51.0013147,13.8381624,796,Kontrollschacht,2,660,2
+873,PE-FWI-4-5861,Guerickestraße,15,"Guerickestraße, 15, Dresden",51.0085939,13.8229007,797,Erdarmatur,4,840,3
+874,PE-FWI-2-6056,Moritzgasse,5,"Moritzgasse, 5, Dresden",51.0505429,13.7409822,798,Zuluftschacht,2,1200,2
+875,PE-FWI-2-7580,Rembrandtstraße,4,"Rembrandtstraße, 4, Dresden",51.0186673,13.76693,799,KontrollBauwerk,2,720,2
+876,PE-FWI-2-8021,Cämmerswalder Straße,4,"Cämmerswalder Straße, 4, Dresden",51.01938355,13.7191490309,800,Zuluftschacht,2,1020,2
+877,PE-FWI-1-3035,Hauptmannstraße,17,"Hauptmannstraße, 17, Dresden",51.0796986,13.7055648,656,Brücke,1,1800,3
+878,PE-FWI-4-7501,Rudolf-Kempe-Straße,6,"Rudolf-Kempe-Straße, 6, Dresden",50.9915115,13.7892294,801,Erdarmatur,4,720,3
+879,PE-FWI-1-5341,Goldammerweg,6,"Goldammerweg, 6, Dresden",51.0110256,13.7922228,802,Armatur,1,600,3
+880,PE-FWI-3-339,Friedensstraße,6,"Friedensstraße, 6, Dresden",51.0722181,13.7415937,803,Entlüftung,3,720,1
+881,PE-FWI-2-1163,Helmholtzstraße,18,"Helmholtzstraße, 18, Dresden",51.0271458,13.7246248,804,Zuluftschacht,2,1200,2
+882,PE-FWI-1-150,Höckendorfer Weg,4,"Höckendorfer Weg, 4, Dresden",51.01868395,13.7243210483,805,Rohrbrücke,1,1320,3
+883,PE-FWI-2-291,Hennigsdorfer Straße / Lilienthalstraße,-,"Hennigsdorfer Straße & Lilienthalstraße, Dresden",51.05089,13.73832,806,Zuluftschacht,2,1080,2
+884,PE-FWI-2-1267,Josephinenstraße,20,"Josephinenstraße, 20, Dresden",51.0437475,13.731792800000001,807,Zuluftschacht,2,1080,2
+885,PE-FWI-4-8273,Seminarstraße,12,"Seminarstraße, 12, Dresden",51.0570134,13.7216453,808,Erdarmatur,4,600,3
+886,PE-FWI-2-2626,Berliner Straße,29,"Berliner Straße, 29, Dresden",51.0546562,13.7174572,809,Kontrollschacht,2,720,2
+887,PE-FWI-4-8217,Großenhainer Straße,79,"Großenhainer Straße, 79, Dresden",51.0702356,13.7375702,810,Erdarmatur,4,720,3
+888,PE-FWI-3-4509,Maxstraße,10,"Maxstraße, 10, Dresden",51.0569955,13.7267201,811,Belüftung,3,720,1
+889,PE-FWI-2-9360,Räcknitzer Weg,2,"Räcknitzer Weg, 2, Dresden",51.0236835,13.7490224,812,KontrollBauwerk,2,840,2
+890,PE-FWI-1-2501,Kreischaer Straße,2,"Kreischaer Straße, 2, Dresden",51.0277882,13.7601536,813,Armatur,1,660,3
+891,PE-FWI-1-9748,Altleuben,4,"Altleuben, 4, Dresden",51.0112081,13.8252016,814,Bauwerk,1,1440,3
+892,PE-FWI-2-5371,Terrassenufer,13,"Terrassenufer, 13, Dresden",51.0537884,13.7391814,176,KontrollBauwerk,2,720,2
+893,PE-FWI-4-9377,Holzhofgasse,7,"Holzhofgasse, 7, Dresden",51.0627824,13.7570029,815,Erdarmatur,4,720,3
+894,PE-FWI-4-5071,Schweizer Straße,29,"Schweizer Straße, 29, Dresden",51.0407962,13.7230071,816,Erdarmatur,4,840,3
+895,PE-FWI-2-2796,Wittenstraße,11,"Wittenstraße, 11, Dresden",51.0180163,13.7628344,817,Zuluftschacht,2,1140,2
+896,PE-FWI-4-5567,Münchner Platz,4,"Münchner Platz, 4, Dresden",51.0307105,13.7220061,818,Erdarmatur,4,660,3
+897,PE-FWI-4-2086,Rudolf-Bergander-Ring,11,"Rudolf-Bergander-Ring, 11, Dresden",51.0198384,13.7838087,819,Erdarmatur,4,780,3
+898,PE-FWI-4-1889,Zellescher Weg / Pestitzer Weg,-,"Zellescher Weg & Pestitzer Weg, Dresden",51.0272000106,13.7510499841,820,Erdarmatur,4,660,3
+899,PE-FWI-4-8595,Fritz-Hoffmann-Straße,1,"Fritz-Hoffmann-Straße, 1, Dresden",51.069064,13.7413154,821,Erdarmatur,4,840,3
+900,PE-FWI-4-9397,Friedrichstraße,44,"Friedrichstraße, 44, Dresden",51.0598609,13.7212542323,822,Erdarmatur,4,900,3
+901,PE-FWI-4-8188,Hammerweg,28,"Hammerweg, 28, Dresden",51.0878821,13.7379191,823,Erdarmatur,4,840,3
+902,PE-FWI-2-88,Stübelallee,47,"Stübelallee, 47, Dresden",51.0389999,13.7747869,824,Zuluftschacht,2,1200,2
+903,PE-FWI-3-542,Schneebergstraße,11,"Schneebergstraße, 11, Dresden",51.0357804,13.7866918,358,Abzweigung,3,600,1
+904,PE-FWI-4-5440,Hildebrandstraße,6,"Hildebrandstraße, 6, Dresden",51.0285741,13.7541077,825,Erdarmatur,4,840,3
+905,PE-FWI-1-657,Neumarkt,9,"Neumarkt, 9, Dresden",51.0507933,13.7410393,826,Bauwerk,1,1380,3
+906,PE-FWI-3-5431,Paulstraße,1,"Paulstraße, 1, Dresden",51.0721453,13.7518034,827,Abzweigung,3,780,1
+907,PE-FWI-3-351,Berchtesgadener Straße,60,"Berchtesgadener Straße, 60, Dresden",51.026687,13.8248233,183,Belüftung,3,660,1
+908,PE-FWI-3-5549,Bernhard-Kretzschmar-Straße,2,"Bernhard-Kretzschmar-Straße, 2, Dresden",51.0199907,13.7834954,710,Entlüftung,3,900,1
+909,PE-FWI-4-5639,Am See,16,"Am See, 16, Dresden",51.0479853,13.7321184,828,Erdarmatur,4,660,3
+910,PE-FWI-4-8040,Mühlbacher Straße,8,"Mühlbacher Straße, 8, Dresden",51.0359586,13.8095785,829,Erdarmatur,4,600,3
+911,PE-FWI-1-9535,Rudolf-Kempe-Straße,2,"Rudolf-Kempe-Straße, 2, Dresden",50.9917144,13.7890518,830,Brunnen,1,1440,3
+912,PE-FWI-2-7146,Schweizer Straße,16,"Schweizer Straße, 16, Dresden",51.0407962,13.7230071,816,Zuluftschacht,2,1140,2
+913,PE-FWI-4-5601,Luchbergstraße,46,"Luchbergstraße, 46, Dresden",51.0257048,13.8002519,831,Erdarmatur,4,720,3
+914,PE-FWI-4-3387,Dr.-Külz-Ring,13,"Dr.-Külz-Ring, 13, Dresden",51.0477595,13.735760299999999,832,Erdarmatur,4,600,3
+915,PE-FWI-2-3860,Leutewitzer Ring,8,"Leutewitzer Ring, 8, Dresden",51.0459173,13.6711475,833,Zuluftschacht,2,960,2
+916,PE-FWI-4-5124,Dieselstraße,14,"Dieselstraße, 14, Dresden",51.0062456,13.8261532,834,Erdarmatur,4,600,3
+917,PE-FWI-4-8896,Hermann-Reichelt-Straße,20,"Hermann-Reichelt-Straße, 20, Dresden",51.1210876,13.7514524,35,Erdarmatur,4,600,3
+918,PE-FWI-4-127,Huttenstraße,3,"Huttenstraße, 3, Dresden",51.0519027,13.7811111,835,Erdarmatur,4,900,3
+919,PE-FWI-4-99,Hähnelstraße,5,"Hähnelstraße, 5, Dresden",51.0447728,13.7631996,836,Erdarmatur,4,900,3
+920,PE-FWI-4-2551,Elsasser Straße,3,"Elsasser Straße, 3, Dresden",51.0550603,13.7583888,837,Erdarmatur,4,720,3
+921,PE-FWI-1-5154,Braunschweiger Straße,9,"Braunschweiger Straße, 9, Dresden",51.0807458,13.717051099999999,838,Brunnen,1,900,3
+922,PE-FWI-2-4004,Cottbuser Straße,14,"Cottbuser Straße, 14, Dresden",51.0884913,13.7183395,400,KontrollBauwerk,2,660,2
+923,PE-FWI-2-2122,Alfred-Althus-Straße,17,"Alfred-Althus-Straße, 17, Dresden",51.0510902,13.7245863,839,KontrollBauwerk,2,780,2
+924,PE-FWI-2-5880,Kurparkstraße,4,"Kurparkstraße, 4, Dresden",51.0628555,13.8265933048,840,Zuluftschacht,2,900,2
+925,PE-FWI-4-4313,Kieler Straße,9,"Kieler Straße, 9, Dresden",51.1143682,13.7819027972,841,Erdarmatur,4,600,3
+926,PE-FWI-3-9143,Steinstraße,9,"Steinstraße, 9, Dresden",51.0513613,13.748838899999999,842,Belüftung,3,720,1
+927,PE-FWI-4-6454,Ottendorfer Straße,2,"Ottendorfer Straße, 2, Dresden",51.0821321,13.7443258,576,Erdarmatur,4,840,3
+928,PE-FWI-2-2751,Gottleubaer Straße,8,"Gottleubaer Straße, 8, Dresden",51.0397647,13.8000784,843,KontrollBauwerk,2,780,2
+929,PE-FWI-4-2958,Augustusbergstraße,1,"Augustusbergstraße, 1, Dresden",51.0308218,13.7843395,844,Erdarmatur,4,900,3
+930,PE-FWI-4-7234,Franklinstraße,5,"Franklinstraße, 5, Dresden",51.037139,13.7444976,394,Erdarmatur,4,900,3
+931,PE-FWI-4-8394,Bernhardstraße,30,"Bernhardstraße, 30, Dresden",51.0349872,13.7217501,845,Erdarmatur,4,660,3
+932,PE-FWI-3-5175,Schäferstraße,82,"Schäferstraße, 82, Dresden",51.0555364,13.7177308,846,Abzweigung,3,780,1
+933,PE-FWI-4-2404,Weberplatz,6,"Weberplatz, 6, Dresden",51.0309217,13.7477274,847,Erdarmatur,4,900,3
+934,PE-FWI-1-2788,Döbraer Straße,11,"Döbraer Straße, 11, Dresden",51.01819305,13.7228144956,848,Bauwerk,1,1320,3
+935,PE-FWI-4-2894,Paul-Wiegler-Straße,9,"Paul-Wiegler-Straße, 9, Dresden",51.0257333,13.742705,849,Erdarmatur,4,660,3
+936,PE-FWI-4-5238,Ischler Straße,6,"Ischler Straße, 6, Dresden",51.018767,13.8393615,850,Erdarmatur,4,840,3
+937,PE-FWI-4-6846,Grunaer Weg,8,"Grunaer Weg, 8, Dresden",51.0274118,13.7748295,851,Erdarmatur,4,660,3
+938,PE-FWI-4-9040,Reichenbachstraße,51,"Reichenbachstraße, 51, Dresden",51.0344179,13.7310771,852,Erdarmatur,4,900,3
+939,PE-FWI-1-9532,Bönischplatz,9,"Bönischplatz, 9, Dresden",51.0557386,13.7623608,853,Stütze,1,720,3
+940,PE-FWI-3-2288,Goldammerweg,9,"Goldammerweg, 9, Dresden",51.0118318,13.7918814,159,Belüftung,3,720,1
+941,PE-FWI-4-1611,Lößnitzstraße,6,"Lößnitzstraße, 6, Dresden",51.06840135,13.7462925851,854,Erdarmatur,4,720,3
+942,PE-FWI-2-2189,Provianthofstraße,4,"Provianthofstraße, 4, Dresden",51.082625,13.7591178882,855,Zuluftschacht,2,1200,2
+943,PE-FWI-3-2461,Blüherstraße,8,"Blüherstraße, 8, Dresden",51.0419572,13.7462981,499,Entlüftung,3,720,1
+944,PE-FWI-3-6306,Cämmerswalder Straße,1,"Cämmerswalder Straße, 1, Dresden",51.0200829,13.7189931,856,Entlüftung,3,780,1
+945,PE-FWI-4-3283,Pirnaer Landstraße,225,"Pirnaer Landstraße, 225, Dresden",51.0046365,13.8406999,857,Erdarmatur,4,840,3
+946,PE-FWI-3-3694,Ischler Straße,9,"Ischler Straße, 9, Dresden",51.0184525,13.839487,858,Abzweigung,3,660,1
+947,PE-FWI-2-7358,Bismarckstraße,26,"Bismarckstraße, 26, Dresden",51.0013578,13.8246710253,859,Kontrollschacht,2,660,2
+948,PE-FWI-4-4872,Bulgakowstraße,2,"Bulgakowstraße, 2, Dresden",51.0216649,13.7357427,860,Erdarmatur,4,900,3
+949,PE-FWI-3-9065,Hochschulstraße,39,"Hochschulstraße, 39, Dresden",51.0358085,13.733339,124,Entlüftung,3,720,1
+950,PE-FWI-4-7174,Bergstraße,46,"Bergstraße, 46, Dresden",51.033635,13.7292848,861,Erdarmatur,4,720,3
+951,PE-FWI-4-2712,Lübecker Straße,114,"Lübecker Straße, 114, Dresden",51.0439627,13.7043459,862,Erdarmatur,4,600,3
+952,PE-FWI-2-2974,Katharinenstraße,2,"Katharinenstraße, 2, Dresden",51.0664757,13.7478603,863,Kontrollschacht,2,840,2
+953,PE-FWI-3-511,Dörnichtweg,44,"Dörnichtweg, 44, Dresden",51.1143826,13.766184299999999,864,Belüftung,3,780,1
+954,PE-FWI-2-82,Böllstraße,8,"Böllstraße, 8, Dresden",51.0219197,13.7327676,865,KontrollBauwerk,2,660,2
+955,PE-FWI-3-816,Sanddornstraße,3,"Sanddornstraße, 3, Dresden",51.0496365,13.6580094,866,Belüftung,3,600,1
+956,PE-FWI-2-1632,Heidestraße,6,"Heidestraße, 6, Dresden",51.0611708,13.8804906,867,KontrollBauwerk,2,600,2
+957,PE-FWI-4-9569,Fischhausstraße,6,"Fischhausstraße, 6, Dresden",51.0676739,13.7864066,868,Erdarmatur,4,900,3
+958,PE-FWI-3-5438,Schnorrstraße,32,"Schnorrstraße, 32, Dresden",51.0352149,13.7341701,869,Abzweigung,3,660,1
+959,PE-FWI-4-8677,Trobischstraße,2,"Trobischstraße, 2, Dresden",51.0930945,13.7094855,870,Erdarmatur,4,900,3
+960,PE-FWI-3-2444,Troppauer Straße,8,"Troppauer Straße, 8, Dresden",51.0273056,13.831597142,871,Belüftung,3,780,1
+961,PE-FWI-4-6255,Curt-Querner-Straße,4,"Curt-Querner-Straße, 4, Dresden",51.0164075,13.7770396,872,Erdarmatur,4,600,3
+962,PE-FWI-2-1974,Kamillenweg,15,"Kamillenweg, 15, Dresden",51.0469921,13.6569853,686,Zuluftschacht,2,900,2
+963,PE-FWI-2-5896,Waltherstraße,7,"Waltherstraße, 7, Dresden",51.0617656,13.7130299,873,KontrollBauwerk,2,840,2
+964,PE-FWI-4-6119,Maxstraße,4,"Maxstraße, 4, Dresden",51.0568505,13.727599,874,Erdarmatur,4,780,3
+965,PE-FWI-4-2798,Thomaestraße,4,"Thomaestraße, 4, Dresden",51.050252,13.7692547,875,Erdarmatur,4,600,3
+966,PE-FWI-4-9804,Sosaer Straße,3,"Sosaer Straße, 3, Dresden",50.998707,13.8255301919,876,Erdarmatur,4,780,3
+967,PE-FWI-3-7685,Tzschimmerstraße,23,"Tzschimmerstraße, 23, Dresden",51.0448236,13.7938264502,877,Abzweigung,3,660,1
+968,PE-FWI-4-6409,Rudolf-Kempe-Straße,9,"Rudolf-Kempe-Straße, 9, Dresden",50.99135,13.7894941,878,Erdarmatur,4,720,3
+969,PE-FWI-4-3154,Paul-Wiegler-Straße,3,"Paul-Wiegler-Straße, 3, Dresden",51.0257872,13.743716,879,Erdarmatur,4,600,3
+970,PE-FWI-4-5358,Lübecker Straße,19,"Lübecker Straße, 19, Dresden",51.046354,13.7015031278,880,Erdarmatur,4,840,3
+971,PE-FWI-2-2192,Grüner Weg,36,"Grüner Weg, 36, Dresden",51.1143146,13.7737662,881,Kontrollschacht,2,660,2
+972,PE-FWI-4-6938,Arnoldstraße,8,"Arnoldstraße, 8, Dresden",51.0587227,13.767073,882,Erdarmatur,4,780,3
+973,PE-FWI-3-1778,Hermann-Hesse-Straße,19,"Hermann-Hesse-Straße, 19, Dresden",51.0655077,13.8192912,883,Entlüftung,3,900,1
+974,PE-FWI-2-9652,Lengefelder Straße,18,"Lengefelder Straße, 18, Dresden",51.032227,13.8165645,884,KontrollBauwerk,2,660,2
+975,PE-FWI-4-1714,Wilsdruffer Str.,6,"Wilsdruffer Str., 6, Dresden",51.0500531,13.7413722,885,Erdarmatur,4,600,3
+976,PE-FWI-4-8463,Reuningstraße,8,"Reuningstraße, 8, Dresden",51.0496329,13.6542996,886,Erdarmatur,4,780,3
+977,PE-FWI-4-9414,Wintergartenstraße,3,"Wintergartenstraße, 3, Dresden",51.044718,13.7609776,887,Erdarmatur,4,720,3
+978,PE-FWI-4-6465,Donathstraße,35,"Donathstraße, 35, Dresden",51.0253618,13.8264654,888,Erdarmatur,4,660,3
+979,PE-FWI-2-8357,Schießgasse,1,"Schießgasse, 1, Dresden",51.0513401,13.7446979,74,KontrollBauwerk,2,600,2
+980,PE-FWI-2-9592,Geystraße,12,"Geystraße, 12, Dresden",51.024228,13.756792,889,Zuluftschacht,2,1140,2
+981,PE-FWI-3-8142,Otto-Reinhold-Weg,5,"Otto-Reinhold-Weg, 5, Dresden",51.0124159,13.7751772,890,Abzweigung,3,900,1
+982,PE-FWI-2-9770,Am Ende,10,"Am Ende, 10, Dresden",51.0337144,13.7916765,891,KontrollBauwerk,2,780,2
+983,PE-FWI-2-8089,Mary-Wigman-Straße,4,"Mary-Wigman-Straße, 4, Dresden",51.0406305,13.739938,892,Zuluftschacht,2,960,2
+984,PE-FWI-4-1923,Gabelsbergerstraße,4,"Gabelsbergerstraße, 4, Dresden",51.0498352,13.7740102,66,Erdarmatur,4,660,3
+985,PE-FWI-2-1270,Rietzstraße,20,"Rietzstraße, 20, Dresden",51.083474,13.7129876253,893,Kontrollschacht,2,720,2
+986,PE-FWI-3-1838,Am Anger,18,"Am Anger, 18, Dresden",51.00893645,13.7896682774,894,Abzweigung,3,720,1
+987,PE-FWI-1-3833,Ermelstraße,9,"Ermelstraße, 9, Dresden",51.04638135,13.7995717498,895,Brücke,1,1500,3
+988,PE-FWI-1-2489,Grumbacher Straße,26,"Grumbacher Straße, 26, Dresden",51.0466311,13.6944303,147,Brunnen,1,1140,3
+989,PE-FWI-4-950,Ulberndorfer Weg,4,"Ulberndorfer Weg, 4, Dresden",51.0312019,13.7910943,896,Erdarmatur,4,600,3
+990,PE-FWI-3-3769,Fröbelstraße,2,"Fröbelstraße, 2, Dresden",51.0511731,13.7154858,403,Belüftung,3,600,1
+991,PE-FWI-3-8392,Wiesenstraße,10,"Wiesenstraße, 10, Dresden",51.0613132,13.8794271,897,Entlüftung,3,840,1
+992,PE-FWI-3-9767,Halleystraße,12,"Halleystraße, 12, Dresden",51.0923114,13.7066512,898,Entlüftung,3,900,1
+993,PE-FWI-3-8501,Leisniger Platz,2,"Leisniger Platz, 2, Dresden",51.08025,13.724425476,899,Abzweigung,3,840,1
+994,PE-FWI-2-3013,Naundorfer Straße,21,"Naundorfer Straße, 21, Dresden",51.0813671,13.7043536231,900,Kontrollschacht,2,900,2
+995,PE-FWI-4-139,Washingtonstraße,35,"Washingtonstraße, 35, Dresden",51.0754228,13.6900714,901,Erdarmatur,4,900,3
+996,PE-FWI-1-1229,Weesensteiner Straße,8,"Weesensteiner Straße, 8, Dresden",51.0334723,13.8082673,902,Brücke,1,1560,3
+997,PE-FWI-4-4983,Polierstraße,7,"Polierstraße, 7, Dresden",51.0456406,13.7266143,903,Erdarmatur,4,780,3
+998,PE-FWI-4-9316,Bürgerwiese,12,"Bürgerwiese, 12, Dresden",51.0442339,13.7406554,904,Erdarmatur,4,900,3
+999,PE-FWI-3-4469,Arno-Schellenberg-Straße,14,"Arno-Schellenberg-Straße, 14, Dresden",50.9895848,13.7894292,905,Entlüftung,3,720,1
+1000,PE-FWI-3-5647,Pirnaer Landstraße,119,"Pirnaer Landstraße, 119, Dresden",51.0122845,13.8258264856,906,Entlüftung,3,900,1

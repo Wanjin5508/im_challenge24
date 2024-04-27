@@ -1,0 +1,568 @@
+{
+  "ID": "7_8_1",
+  "Cohorts": 7,
+  "Days": 8,
+  "MaxRouteDuration": 21600,
+  "MainTasks": [
+    {
+      "ID": "MT-FWI-1",
+      "Day": 1,
+      "ServiceTime": 6300,
+      "StartTime": 9900,
+      "EndTime": 16200,
+      "LocationID": 444,
+      "Latitude": 51.0261213,
+      "Longitude": 13.7334802
+    },
+    {
+      "ID": "MT-FWI-2",
+      "Day": 8,
+      "ServiceTime": 7200,
+      "StartTime": 9900,
+      "EndTime": 17100,
+      "LocationID": 324,
+      "Latitude": 51.0551173,
+      "Longitude": 13.7658587
+    },
+    {
+      "ID": "MT-FWI-3",
+      "Day": 3,
+      "ServiceTime": 4500,
+      "StartTime": 9000,
+      "EndTime": 13500,
+      "LocationID": 150,
+      "Latitude": 51.058994,
+      "Longitude": 13.7010184026
+    },
+    {
+      "ID": "MT-FWI-4",
+      "Day": 4,
+      "ServiceTime": 5400,
+      "StartTime": 6300,
+      "EndTime": 11700,
+      "LocationID": 673,
+      "Latitude": 51.0794237,
+      "Longitude": 13.7119349
+    },
+    {
+      "ID": "MT-FWI-5",
+      "Day": 7,
+      "ServiceTime": 4500,
+      "StartTime": 4500,
+      "EndTime": 9000,
+      "LocationID": 321,
+      "Latitude": 51.056766,
+      "Longitude": 13.7609144
+    },
+    {
+      "ID": "MT-FWI-6",
+      "Day": 2,
+      "ServiceTime": 3600,
+      "StartTime": 7200,
+      "EndTime": 10800,
+      "LocationID": 459,
+      "Latitude": 51.033711,
+      "Longitude": 13.7281029
+    },
+    {
+      "ID": "MT-FWI-7",
+      "Day": 5,
+      "ServiceTime": 7200,
+      "StartTime": 9900,
+      "EndTime": 17100,
+      "LocationID": 686,
+      "Latitude": 51.0469921,
+      "Longitude": 13.6569853
+    },
+    {
+      "ID": "MT-FWI-8",
+      "Day": 8,
+      "ServiceTime": 5400,
+      "StartTime": 8100,
+      "EndTime": 13500,
+      "LocationID": 604,
+      "Latitude": 51.02104005,
+      "Longitude": 13.83511805
+    },
+    {
+      "ID": "MT-FWI-9",
+      "Day": 1,
+      "ServiceTime": 3600,
+      "StartTime": 9000,
+      "EndTime": 12600,
+      "LocationID": 238,
+      "Latitude": 51.0111726,
+      "Longitude": 13.8264036
+    },
+    {
+      "ID": "MT-FWI-10",
+      "Day": 3,
+      "ServiceTime": 5400,
+      "StartTime": 9000,
+      "EndTime": 14400,
+      "LocationID": 469,
+      "Latitude": 51.0050629,
+      "Longitude": 13.803483
+    },
+    {
+      "ID": "MT-FWI-11",
+      "Day": 8,
+      "ServiceTime": 4500,
+      "StartTime": 7200,
+      "EndTime": 11700,
+      "LocationID": 731,
+      "Latitude": 51.0346094,
+      "Longitude": 13.8092499
+    },
+    {
+      "ID": "MT-FWI-12",
+      "Day": 7,
+      "ServiceTime": 7200,
+      "StartTime": 9900,
+      "EndTime": 17100,
+      "LocationID": 558,
+      "Latitude": 51.1239807,
+      "Longitude": 13.7903017
+    },
+    {
+      "ID": "MT-FWI-13",
+      "Day": 6,
+      "ServiceTime": 5400,
+      "StartTime": 9000,
+      "EndTime": 14400,
+      "LocationID": 638,
+      "Latitude": 51.0494975,
+      "Longitude": 13.7533116
+    },
+    {
+      "ID": "MT-FWI-14",
+      "Day": 6,
+      "ServiceTime": 4500,
+      "StartTime": 3600,
+      "EndTime": 8100,
+      "LocationID": 822,
+      "Latitude": 51.0598609,
+      "Longitude": 13.7212542323
+    },
+    {
+      "ID": "MT-FWI-15",
+      "Day": 2,
+      "ServiceTime": 7200,
+      "StartTime": 6300,
+      "EndTime": 13500,
+      "LocationID": 215,
+      "Latitude": 51.0601401,
+      "Longitude": 13.7444469
+    },
+    {
+      "ID": "MT-FWI-16",
+      "Day": 7,
+      "ServiceTime": 3600,
+      "StartTime": 13500,
+      "EndTime": 17100,
+      "LocationID": 710,
+      "Latitude": 51.0199907,
+      "Longitude": 13.7834954
+    },
+    {
+      "ID": "MT-FWI-17",
+      "Day": 4,
+      "ServiceTime": 7200,
+      "StartTime": 6300,
+      "EndTime": 13500,
+      "LocationID": 470,
+      "Latitude": 51.0566095,
+      "Longitude": 13.7140926
+    },
+    {
+      "ID": "MT-FWI-18",
+      "Day": 4,
+      "ServiceTime": 3600,
+      "StartTime": 13500,
+      "EndTime": 17100,
+      "LocationID": 615,
+      "Latitude": 51.0517869,
+      "Longitude": 13.7423409
+    },
+    {
+      "ID": "MT-FWI-19",
+      "Day": 2,
+      "ServiceTime": 6300,
+      "StartTime": 6300,
+      "EndTime": 12600,
+      "LocationID": 196,
+      "Latitude": 51.0239408,
+      "Longitude": 13.7544919
+    },
+    {
+      "ID": "MT-FWI-20",
+      "Day": 6,
+      "ServiceTime": 7200,
+      "StartTime": 8100,
+      "EndTime": 15300,
+      "LocationID": 557,
+      "Latitude": 51.0293811,
+      "Longitude": 13.818474
+    },
+    {
+      "ID": "MT-FWI-21",
+      "Day": 5,
+      "ServiceTime": 4500,
+      "StartTime": 6300,
+      "EndTime": 10800,
+      "LocationID": 144,
+      "Latitude": 51.0075256,
+      "Longitude": 13.792643398100001
+    },
+    {
+      "ID": "MT-FWI-22",
+      "Day": 3,
+      "ServiceTime": 6300,
+      "StartTime": 3600,
+      "EndTime": 9900,
+      "LocationID": 20,
+      "Latitude": 51.0526993,
+      "Longitude": 13.7877707
+    },
+    {
+      "ID": "MT-FWI-23",
+      "Day": 5,
+      "ServiceTime": 6300,
+      "StartTime": 7200,
+      "EndTime": 13500,
+      "LocationID": 157,
+      "Latitude": 51.0428052,
+      "Longitude": 13.7405154
+    },
+    {
+      "ID": "MT-FWI-24",
+      "Day": 3,
+      "ServiceTime": 6300,
+      "StartTime": 10800,
+      "EndTime": 17100,
+      "LocationID": 148,
+      "Latitude": 51.044503,
+      "Longitude": 13.6645494
+    },
+    {
+      "ID": "MT-FWI-25",
+      "Day": 1,
+      "ServiceTime": 4500,
+      "StartTime": 8100,
+      "EndTime": 12600,
+      "LocationID": 604,
+      "Latitude": 51.02104005,
+      "Longitude": 13.83511805
+    },
+    {
+      "ID": "MT-FWI-26",
+      "Day": 2,
+      "ServiceTime": 6300,
+      "StartTime": 4500,
+      "EndTime": 10800,
+      "LocationID": 703,
+      "Latitude": 51.0526037,
+      "Longitude": 13.767039
+    },
+    {
+      "ID": "MT-FWI-27",
+      "Day": 7,
+      "ServiceTime": 5400,
+      "StartTime": 4500,
+      "EndTime": 9900,
+      "LocationID": 193,
+      "Latitude": 51.0591219,
+      "Longitude": 13.7742846
+    },
+    {
+      "ID": "MT-FWI-28",
+      "Day": 6,
+      "ServiceTime": 7200,
+      "StartTime": 4500,
+      "EndTime": 11700,
+      "LocationID": 244,
+      "Latitude": 51.0094076,
+      "Longitude": 13.7967539
+    },
+    {
+      "ID": "MT-FWI-29",
+      "Day": 6,
+      "ServiceTime": 6300,
+      "StartTime": 8100,
+      "EndTime": 14400,
+      "LocationID": 249,
+      "Latitude": 51.0537589,
+      "Longitude": 13.7588946
+    },
+    {
+      "ID": "MT-FWI-30",
+      "Day": 1,
+      "ServiceTime": 3600,
+      "StartTime": 11700,
+      "EndTime": 15300,
+      "LocationID": 641,
+      "Latitude": 51.0205412,
+      "Longitude": 13.7356032
+    },
+    {
+      "ID": "MT-FWI-31",
+      "Day": 3,
+      "ServiceTime": 5400,
+      "StartTime": 5400,
+      "EndTime": 10800,
+      "LocationID": 159,
+      "Latitude": 51.0118318,
+      "Longitude": 13.7918814
+    },
+    {
+      "ID": "MT-FWI-32",
+      "Day": 5,
+      "ServiceTime": 5400,
+      "StartTime": 9000,
+      "EndTime": 14400,
+      "LocationID": 680,
+      "Latitude": 51.0608764,
+      "Longitude": 13.7426257
+    },
+    {
+      "ID": "MT-FWI-33",
+      "Day": 6,
+      "ServiceTime": 3600,
+      "StartTime": 4500,
+      "EndTime": 8100,
+      "LocationID": 772,
+      "Latitude": 51.0167087,
+      "Longitude": 13.7792411
+    },
+    {
+      "ID": "MT-FWI-34",
+      "Day": 6,
+      "ServiceTime": 6300,
+      "StartTime": 9900,
+      "EndTime": 16200,
+      "LocationID": 243,
+      "Latitude": 51.04388815,
+      "Longitude": 13.7740369765
+    },
+    {
+      "ID": "MT-FWI-35",
+      "Day": 7,
+      "ServiceTime": 6300,
+      "StartTime": 9000,
+      "EndTime": 15300,
+      "LocationID": 544,
+      "Latitude": 51.0165214,
+      "Longitude": 13.7753379
+    },
+    {
+      "ID": "MT-FWI-36",
+      "Day": 7,
+      "ServiceTime": 7200,
+      "StartTime": 9000,
+      "EndTime": 16200,
+      "LocationID": 520,
+      "Latitude": 51.0453472,
+      "Longitude": 13.7443766
+    },
+    {
+      "ID": "MT-FWI-37",
+      "Day": 1,
+      "ServiceTime": 6300,
+      "StartTime": 9000,
+      "EndTime": 15300,
+      "LocationID": 97,
+      "Latitude": 51.0130881,
+      "Longitude": 13.7902261
+    },
+    {
+      "ID": "MT-FWI-38",
+      "Day": 1,
+      "ServiceTime": 6300,
+      "StartTime": 8100,
+      "EndTime": 14400,
+      "LocationID": 144,
+      "Latitude": 51.0075256,
+      "Longitude": 13.792643398100001
+    },
+    {
+      "ID": "MT-FWI-39",
+      "Day": 2,
+      "ServiceTime": 6300,
+      "StartTime": 3600,
+      "EndTime": 9900,
+      "LocationID": 779,
+      "Latitude": 51.02689685,
+      "Longitude": 13.7666824564
+    },
+    {
+      "ID": "MT-FWI-40",
+      "Day": 7,
+      "ServiceTime": 5400,
+      "StartTime": 9000,
+      "EndTime": 14400,
+      "LocationID": 378,
+      "Latitude": 51.0455399,
+      "Longitude": 13.6707309
+    },
+    {
+      "ID": "MT-FWI-41",
+      "Day": 2,
+      "ServiceTime": 7200,
+      "StartTime": 7200,
+      "EndTime": 14400,
+      "LocationID": 297,
+      "Latitude": 51.03085075,
+      "Longitude": 13.7057043969
+    },
+    {
+      "ID": "MT-FWI-42",
+      "Day": 3,
+      "ServiceTime": 3600,
+      "StartTime": 3600,
+      "EndTime": 7200,
+      "LocationID": 414,
+      "Latitude": 51.0163436,
+      "Longitude": 13.7224626
+    },
+    {
+      "ID": "MT-FWI-43",
+      "Day": 4,
+      "ServiceTime": 6300,
+      "StartTime": 4500,
+      "EndTime": 10800,
+      "LocationID": 705,
+      "Latitude": 51.0118863,
+      "Longitude": 13.7887506
+    },
+    {
+      "ID": "MT-FWI-44",
+      "Day": 2,
+      "ServiceTime": 6300,
+      "StartTime": 4500,
+      "EndTime": 10800,
+      "LocationID": 14,
+      "Latitude": 51.04666965,
+      "Longitude": 13.7262092654
+    },
+    {
+      "ID": "MT-FWI-45",
+      "Day": 8,
+      "ServiceTime": 6300,
+      "StartTime": 7200,
+      "EndTime": 13500,
+      "LocationID": 455,
+      "Latitude": 51.04469605,
+      "Longitude": 13.802891512
+    },
+    {
+      "ID": "MT-FWI-46",
+      "Day": 8,
+      "ServiceTime": 7200,
+      "StartTime": 9000,
+      "EndTime": 16200,
+      "LocationID": 24,
+      "Latitude": 51.0441133,
+      "Longitude": 13.7598618
+    },
+    {
+      "ID": "MT-FWI-47",
+      "Day": 3,
+      "ServiceTime": 6300,
+      "StartTime": 9000,
+      "EndTime": 15300,
+      "LocationID": 795,
+      "Latitude": 51.0519559,
+      "Longitude": 13.7242599
+    },
+    {
+      "ID": "MT-FWI-48",
+      "Day": 1,
+      "ServiceTime": 4500,
+      "StartTime": 12600,
+      "EndTime": 17100,
+      "LocationID": 851,
+      "Latitude": 51.0274118,
+      "Longitude": 13.7748295
+    },
+    {
+      "ID": "MT-FWI-49",
+      "Day": 4,
+      "ServiceTime": 6300,
+      "StartTime": 5400,
+      "EndTime": 11700,
+      "LocationID": 724,
+      "Latitude": 51.0466241,
+      "Longitude": 13.7613127
+    },
+    {
+      "ID": "MT-FWI-50",
+      "Day": 5,
+      "ServiceTime": 3600,
+      "StartTime": 8100,
+      "EndTime": 11700,
+      "LocationID": 457,
+      "Latitude": 51.0603531,
+      "Longitude": 13.7408246
+    },
+    {
+      "ID": "MT-FWI-51",
+      "Day": 5,
+      "ServiceTime": 5400,
+      "StartTime": 5400,
+      "EndTime": 10800,
+      "LocationID": 669,
+      "Latitude": 50.999201,
+      "Longitude": 13.8004068
+    },
+    {
+      "ID": "MT-FWI-52",
+      "Day": 8,
+      "ServiceTime": 5400,
+      "StartTime": 6300,
+      "EndTime": 11700,
+      "LocationID": 378,
+      "Latitude": 51.0455399,
+      "Longitude": 13.6707309
+    },
+    {
+      "ID": "MT-FWI-53",
+      "Day": 5,
+      "ServiceTime": 6300,
+      "StartTime": 6300,
+      "EndTime": 12600,
+      "LocationID": 212,
+      "Latitude": 51.0758445,
+      "Longitude": 13.7494661981
+    },
+    {
+      "ID": "MT-FWI-54",
+      "Day": 4,
+      "ServiceTime": 5400,
+      "StartTime": 8100,
+      "EndTime": 13500,
+      "LocationID": 36,
+      "Latitude": 51.0466937,
+      "Longitude": 13.7602635
+    },
+    {
+      "ID": "MT-FWI-55",
+      "Day": 4,
+      "ServiceTime": 5400,
+      "StartTime": 10800,
+      "EndTime": 16200,
+      "LocationID": 848,
+      "Latitude": 51.01819305,
+      "Longitude": 13.7228144956
+    },
+    {
+      "ID": "MT-FWI-56",
+      "Day": 8,
+      "ServiceTime": 4500,
+      "StartTime": 7200,
+      "EndTime": 11700,
+      "LocationID": 480,
+      "Latitude": 51.04406645,
+      "Longitude": 13.7373965239
+    }
+  ]
+}
