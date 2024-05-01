@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae06e801a38a47c",
+        "id": "99112054a411e15c",
         "type": "tabs",
         "children": [
           {
-            "id": "73101999073d411e",
+            "id": "ac917672585c98fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1c9f860c6c8c4bf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90fb590134df4833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git_introduction.md",
-                "mode": "source",
-                "source": false
+                "file": "kanban/未命名看板.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8a380f5ef6fb6e4e",
@@ -107,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git_introduction.md",
+                "file": "kanban/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git_introduction.md",
+                "file": "kanban/未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git_introduction.md"
+                "file": "kanban/未命名看板.md"
               }
             }
           }
@@ -168,12 +144,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "90fb590134df4833",
+  "active": "ac917672585c98fc",
   "lastOpenFiles": [
     "README.md",
-    "git_introduction.md",
-    "test.md",
     "Kickoff_IM Challenge_2024.pdf",
+    "Literatur/Vansteenwegen2019_OrienteeringProblems.pdf",
+    "kanban/未命名看板.md",
+    "Literatur/Lin2017_OrienteeringProblemWithTimeWindows.pdf",
+    "Literatur/Tricoire2010_Multi-periodOrienteeringProblem.pdf",
+    "git_introduction.md",
+    "未命名.canvas",
+    "kanban",
+    "test.md",
     "attachments/Pasted image 20240501143951.png",
     "attachments"
   ]
