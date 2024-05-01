@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90fb590134df4833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git_introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "git_introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "git_introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "git_introduction.md"
               }
             }
           }
@@ -155,10 +167,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1c9f860c6c8c4bf0",
+  "active": "90fb590134df4833",
   "lastOpenFiles": [
-    "test.md",
     "README.md",
+    "git_introduction.md",
+    "test.md",
     "Kickoff_IM Challenge_2024.pdf",
     "attachments/Pasted image 20240501143951.png",
     "attachments"
