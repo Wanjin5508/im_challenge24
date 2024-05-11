@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "969562668511f05d",
+    "type": "split",
+    "children": [
+      {
+        "id": "99112054a411e15c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73101999073d411e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "1c9f860c6c8c4bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literatur/Litertur_Inhalt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90fb590134df4833",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "type": "pdf",
+              "state": {
+                "file": "Kickoff_IM Challenge_2024.pdf"
+                "file": "Literatur/Lin2017_OrienteeringProblemWithTimeWindows.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b094f0398440718e",
+    "type": "split",
+    "children": [
+      {
+        "id": "895f4c97bd0bb662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "687cdcaefb5dade9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b967530dc304ec7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a1bdca7e1f5576a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8a380f5ef6fb6e4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3210e1b0892f356c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "141af83ec573ac8f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kickoff_IM Challenge_2024.pdf",
+                "file": "Literatur/Litertur_Inhalt.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ca53a249b095ff1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Kickoff_IM Challenge_2024.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cf36dc33ce88637",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4bf5a0cdee4c522",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Kickoff_IM Challenge_2024.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ac917672585c98fc",
+  "lastOpenFiles": [
+    "Literatur/Litertur_Inhalt.md",
+    "kanban/未命名看板.md",
+    "src/test.ipynb",
+    "README.md",
+    "Kickoff_IM Challenge_2024.pdf",
+    "Literatur/Vansteenwegen2019_OrienteeringProblems.pdf",
+    "Literatur/Lin2017_OrienteeringProblemWithTimeWindows.pdf",
+    "Literatur/Tricoire2010_Multi-periodOrienteeringProblem.pdf",
+    "git_introduction.md",
+    "未命名.canvas",
+    "kanban",
+    "test.md",
+    "attachments/Pasted image 20240501143951.png",
+    "attachments"
+  ]
+}

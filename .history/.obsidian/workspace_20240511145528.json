@@ -33,7 +33,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Literatur/Lin2017_OrienteeringProblemWithTimeWindows.pdf"
+                "file": "Kickoff_IM Challenge_2024.pdf"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literatur/Litertur_Inhalt.md",
+                "file": "kanban/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literatur/Litertur_Inhalt.md",
+                "file": "kanban/未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literatur/Litertur_Inhalt.md"
+                "file": "kanban/未命名看板.md"
               }
             }
           }
@@ -167,12 +167,10 @@
   },
   "active": "687cdcaefb5dade9",
   "lastOpenFiles": [
-    "Literatur/Tricoire2010_Multi-periodOrienteeringProblem.pdf",
-    "Literatur/Litertur_Inhalt.md",
-    "kanban/未命名看板.md",
-    "kanban",
-    "test.md",
     "README.md",
+    "Kickoff_IM Challenge_2024.pdf",
+    "Literatur/Vansteenwegen2019_OrienteeringProblems.pdf",
+    "kanban/未命名看板.md",
     "Literatur/Lin2017_OrienteeringProblemWithTimeWindows.pdf",
     "git_introduction.md",
     "Kickoff_IM Challenge_2024.pdf",
