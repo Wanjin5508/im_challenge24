@@ -11,9 +11,9 @@
             "id": "ac917672585c98fc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "kanban/未命名看板.md"
+                "file": "Kickoff_IM Challenge_2024.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "kanban/未命名看板.md",
+                "file": "Kickoff_IM Challenge_2024.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "kanban/未命名看板.md",
+                "file": "Kickoff_IM Challenge_2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kanban/未命名看板.md"
+                "file": "Kickoff_IM Challenge_2024.pdf"
               }
             }
           }
@@ -146,10 +146,11 @@
   },
   "active": "ac917672585c98fc",
   "lastOpenFiles": [
+    "kanban/未命名看板.md",
+    "src/test.ipynb",
     "README.md",
     "Kickoff_IM Challenge_2024.pdf",
     "Literatur/Vansteenwegen2019_OrienteeringProblems.pdf",
-    "kanban/未命名看板.md",
     "Literatur/Lin2017_OrienteeringProblemWithTimeWindows.pdf",
     "Literatur/Tricoire2010_Multi-periodOrienteeringProblem.pdf",
     "git_introduction.md",
